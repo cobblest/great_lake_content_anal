@@ -1,0 +1,12 @@
+Minnesota Sea Grant	75	1256	0	Through scientific research and public education programs, Minnesota Sea Grant works to enhance Minnesota’s coastal environment and economy.
+Delaware Sea Grant	390	2435	0	Delaware Sea Grant  promotes conservation and management of marine and coastal resources through research, education, and outreach.
+Lake Huron Centre	536	895	0	The Lake Huron Centre for Coastal Conservation protects & restores Lake Huron's coastal environment & promotes a healthy coastal ecosystem.
+IL-IN Sea Grant	257	860	0	IL-IN Sea Grant combines research,
+education and outreach to empower southern
+Lake Michigan communities to secure a healthy environment and economy.
+HRWC	61	275	0	Huron River Watershed Council....Protecting the River since 1965.
+Freshwater Future	2459	2622	0	Freshwater Future helps people protect the Great Lakes, ensuring the healthy future of our waters. http://t.co/tEWBaom5k3
+Ohio Sea Grant	253	1042	0	OSG is a statewide program that supports greater knowledge and stewardship of Lake Erie and the Great Lakes through research, education and outreach.
+U of Wisc Sea Grant 	985	1187	0	Dedicated to the stewardship and sustainable use of our Great Lakes and ocean resources through research and outreach.
+Freshwater Alliance	1073	416	0	The Freshwater Alliance is a national capacity builder that assists Canada's non-profit water community in reaching goals to secure healthy home waters.
+New York Sea Grant	743	1834	0	NYSG is one of 33 university-based coastal research/education programs funded through NOAA’s National Sea Grant College Program.

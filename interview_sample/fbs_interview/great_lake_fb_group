@@ -1,0 +1,9 @@
+while read line
+do 
+    #echo $line # or whaterver you want to do with the $line variable
+    python great_lake_fb_v3.py $line > "$line.txt"
+done < "fb_list.txt"
+
+while read line; do echo python great_lake_fb_v3.py $line > "$line.txt"; done < fb_list.rtf
+
+for f in *.txt; do python great_lake_twitter.py "$f" > "${f%.txt}_new.txt";done

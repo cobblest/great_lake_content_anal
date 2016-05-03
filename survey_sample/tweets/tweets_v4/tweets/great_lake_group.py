@@ -1,0 +1,1 @@
+for f in *.txt; do python great_lake_twitter.py "$f" > "${f%.txt}_new.txt";done

@@ -1,0 +1,721 @@
+1	Visualisations that attempt to predict population growth http://t.co/0XJi0TN1UI	08:57:51	Jun 26	2013	2	0	0	0	0	0	0	0	1
+2	RT @EUEnvironment: Read about the new #EU #Environment Action Programme and its priorities until 2020 here: http://t.co/EmCmZK34W5  #7EAP #…	08:56:28	Jun 26	2013	17	0	3	0	1	0	1	0	1
+3	RT @EUEnvironment: Indicator: Land take (CSI 014) - Assessment published Jun 2013:   Land take by the expansion ofÊresidentialÊar... http:/…	08:56:14	Jun 26	2013	5	0	0	0	1	0	1	0	0
+4	RT @deepseadawn: Mapping the future with Big Data via a "Facebook for Maps" http://t.co/7i3xD9Q0s6 #gis #esri	07:46:11	Jun 25	2013	4	0	2	0	1	0	1	0	1
+5	Take a look at these new images of vegetation on our green Earth from @NOAA http://t.co/sAe79QiCU9	10:25:07	Jun 24	2013	0	0	0	0	0	0	1	0	1
+6	See the hazardous air quality projections for Singapore http://t.co/H9uknT9QRy	08:32:16	Jun 21	2013	0	0	0	0	0	0	0	0	1
+7	RT @EuroGeosciences: The challenges of collecting long term records of climate data: http://t.co/gurCe7w54Z via @guardianeco	08:09:52	Jun 21	2013	5	0	0	0	1	0	2	0	1
+8	Vote for your favourite low-carbon project in the World You Like Challenge! Fantastic use of mapping technologies http://t.co/Kgvs13EsC8	13:18:51	Jun 20	2013	0	0	0	0	0	0	0	0	1
+9	The @Europarl_EN recently agreed on new rules making it easier to open up huge amounts of public sector data. http://t.co/8zUSjt7zD0	15:16:04	Jun 18	2013	1	0	0	0	0	0	1	0	1
+10	RT @cormier_jm: This Instagram for Maps Will Make a Cartographer Out of You Yet http://t.co/wIZB341d6T #gis #geospatial	15:09:51	Jun 18	2013	2	0	2	0	1	0	1	0	1
+11	Download the Earth in high resolution with @NASA_Landsat 8 http://t.co/BzJttcyS2d	07:43:11	Jun 17	2013	1	1	0	0	0	0	1	0	1
+12	@mhaklay Will do. Maybe you'd like to leave a comment with the link on Facebook too..	13:23:21	Jun 13	2013	0	0	0	1	0	0	1	0	0
+13	Our latest blog looks at how and why #citizenscience is employed by the EEA and discusses how you can get involved http://t.co/N9UsFCsfO4	07:49:15	Jun 13	2013	8	2	1	0	0	0	0	0	1
+14	RT @MarineLitterNew: Beaches need clean-up during monsoons too http://t.co/vGWsEfJ1N9 #eoemlw	11:58:47	Jun 12	2013	0	0	1	0	1	0	1	0	1
+15	Great video showing how @CopernicusEU uses satellite images for emergency management such as floods:http://t.co/XsNPW6udOC	08:11:21	Jun 12	2013	1	0	0	0	0	0	1	0	1
+16	RT @psmonks: Flooding in Eastern Germany from space http://t.co/9DwekqEhmN #NASA	07:54:51	Jun 12	2013	1	0	1	0	1	0	1	0	1
+17	RT @EuroGeosciences: Predicting the floods of the future - what we might expect in a changing climate: http://t.co/cnGeoLqfX0	15:55:03	Jun 11	2013	3	0	0	0	1	0	1	0	1
+18	RT @guardianeco: Satellite eye on Earth: May 2013 – in pictures http://t.co/rEqBHshjh5	15:43:50	Jun 11	2013	21	0	0	0	1	0	1	0	1
+19	See how @esa forecasters are working with satellites to help to improve the accuracy of flood prediction http://t.co/63ot2g5x81	07:50:21	Jun 11	2013	10	1	0	0	0	0	1	0	1
+20	RT @EUEnvironment: Using @EYEonEARTHorg platform to visualise the state of Europe’s bathing waters: http://t.co/BZbGSv1FiL
+#water #swim #su…	10:02:56	Jun 10	2013	8	0	3	0	1	0	2	0	1
+21	Copernicus Masters 2013 is now open for submission! submit your entry by 15 Sept. Let's see this on Eye on Earth too. http://t.co/UQppHpIGdU	09:15:42	Jun 10	2013	0	0	0	0	0	0	0	0	1
+22	RT @WSNGISPE: Esri’s Jack Dangermond on Marrying Maps with Big Data Analytics - Data Informed Podcast http://t.co/2ImComcssI #GIS #ESRI	08:27:48	Jun 07	2013	1	0	2	0	1	0	1	0	1
+23	RT @SensorsSystems: Satellite Imagery Helps Study Tropical Tree Cover and Climate Change  http://t.co/HWEkVmKq3n	12:39:11	Jun 06	2013	4	0	0	0	1	0	1	0	1
+24	Want to know about bathing water quality in Europe? Check out this Eye on Earth app seen by over 100 000 people http://t.co/R02ldfm0MJ	09:26:19	Jun 06	2013	0	0	0	0	0	0	0	0	1
+25	Going swimming? Check WaterWatch for official bathing water quality and citizen observations. Submit your own ratings http://t.co/bpUbeJPPFM	11:07:41	May 23	2013	5	2	0	0	0	0	0	0	1
+26	Good news: 94% of bathing sites in the EU meet minimum standards for water quality and almost 4 in 5 are excellent! http://t.co/9MILLMuc3o	10:49:34	May 23	2013	2	0	0	0	0	0	0	0	1
+27	Happy #BiodiversityDay! To celebrate we created a map of 105,000 protected areas in Europe. Is there one near you? http://t.co/Q6fcHRkiUw	15:07:02	May 22	2013	5	1	1	0	0	0	0	0	1
+28	What does 10 miilion pounds of trash look like? Some food for thought for #eoemlw http://t.co/ML8k5IIZU1	07:51:23	May 21	2013	1	0	1	0	0	0	0	0	1
+29	RT @WSNGISPE: Esri’s Jack Dangermond on Marrying Maps with Big Data Analytics - Data Informed Podcast http://t.co/mfISbyGMgG #GIS #ESRI	15:53:51	May 16	2013	1	0	2	0	1	0	1	0	1
+30	RT @ElaMi5: #ict4env #marinelitterwatch citizens #crowdsourcing pollution in marine protected areas by @eyeonearthorg #eoemlw	09:27:11	May 16	2013	0	0	4	0	1	0	2	0	0
+31	RT @ElaMi5: #ict4env @eyeonearthorg showcases citizens #crowdsourcing quality of sea water	09:26:46	May 16	2013	2	0	2	0	1	0	2	0	0
+32	Here's to 40 years of Landsat! http://t.co/vHKJyWkbEU	08:41:32	May 16	2013	1	0	0	0	0	0	0	0	1
+33	RT @ElaMi5: Today we talk #ict4env with @EUEnvironment 's #eyeonearth, Montenegro's digital and environmental communities http://t.co/CALs4…	10:18:15	May 15	2013	5	0	2	0	1	0	2	0	0
+34	Great visualisation of world language distribution using Twitter signals to map different languages http://t.co/UBtUJN72Fv	07:58:59	May 07	2013	6	1	0	0	0	0	0	0	1
+35	EEA recruiting a Project Manager - State of the Environment Information Services Support http://t.co/eGUgFUv2Bf	14:07:01	May 06	2013	2	0	0	0	0	0	0	0	1
+36	We changed our logo to merge the logos of the Eye on Earth Summit and Eye on Earth network. How do you like it? http://t.co/hn1MdPXxVs	08:52:26	May 03	2013	2	1	0	0	0	0	0	1	0
+37	RT @WorldFishCenter: Combating #climate change and the role of #geospatial technology: http://t.co/1TapdXYng4	10:13:47	May 02	2013	2	0	2	0	1	0	1	0	1
+38	RT @deepseadawn: Draft global map of seafloor geomorphology http://t.co/bSVAOQAa1p Would look great in Eye on Earth	09:11:35	May 02	2013	1	0	0	0	1	0	1	0	1
+39	RT @srmdrummer: LUNA browser - Archive of 38,000 digitised #maps and other items: http://t.co/J3fcx0ZdqY	09:08:52	May 02	2013	0	0	1	0	1	0	1	0	1
+40	RT @nordpil: Atlas of Urban Expansion - and companion site with #GIS data, change analysis and #statistics for 120 cities http://t.co/zPAqW…	09:05:59	May 02	2013	1	0	2	0	1	0	1	0	0
+41	RT @wedoITNews: RT: Mapping World Languages through Twitter Chatter &amp; other microblogging channels: http://t.co/sQV9rnWwBQ #GIS #Geospa…	11:25:43	Apr 30	2013	1	0	2	0	1	0	1	0	1
+42	Blogpost on Marine LitterWatch pilot to gather data on European beach and coastal marine litter. May launch http://t.co/nbYfKJ2bAT #eoemlw	10:21:53	Apr 29	2013	2	0	1	0	0	0	0	0	1
+43	RT @NatureClimate: BBC News - Earliest satellite maps of Antarctic and Arctic sea-ice http://t.co/FPeSvUfe6v	09:46:43	Apr 25	2013	10	0	0	0	1	0	1	0	1
+44	RT @EUEnvironment: The European Soundscape Award 2013 - open for applications: Do you want to make some noise about your campaign... http:/…	09:43:57	Apr 25	2013	2	0	0	0	1	0	1	0	0
+45	RT @fpedrera: @EUEnvironment Nice! I just loaded the data on @cartodb and here you have another visualisation of the same data! http://t.co…	09:36:51	Apr 24	2013	4	0	0	0	1	0	3	0	0
+46	RT @EUEnvironment: Interactive map: AirBase reporting stations (beta version): See where the AirBase reporting stations are locat... http:/…	08:36:05	Apr 24	2013	7	0	0	0	1	0	1	0	0
+47	RT @RebelGeo: "@EsriEnvironment: This #EarthDay, @Esri &amp; @EYEonEARTHorg are empowering citizens &amp; leaders to protect our planet htt…	08:32:13	Apr 24	2013	2	0	1	0	1	0	3	0	0
+48	RT @geoworldmedia: The public beta launch of new @Crowdmap will be out in two weeks https://t.co/DGr5KH43aJ	08:12:36	Apr 24	2013	0	0	0	0	1	0	2	0	1
+49	RT @spatialanalysis: Nice gallery of urban data visualisation on @VisualizingOrg:  http://t.co/4w7jfr0S4w	12:04:23	Apr 23	2013	13	0	0	0	1	0	2	0	1
+50	Happy Earth Day. Have some real-time images from EUMETSAT http://t.co/63SmWqCxmk	12:33:33	Apr 22	2013	0	0	0	0	0	0	0	0	1
+51	http://t.co/xnuap8OrYA marks http://t.co/1Jfx3foPO4 with an interactive  water cycle doodle. Can you find the badger? http://t.co/ZMgyp3e39O	12:28:37	Apr 22	2013	1	0	0	0	0	0	0	1	1
+52	RT @EUEnvironment: ‘African dust’ from the Sahara is one of the natural sources of particulate matter in Europe’s air. More: http://t.co ...	07:20:48	Apr 18	2013	10	0	0	0	1	0	1	0	0
+53	RT @youngnata: European Environment Agency has created an online mapping tool called “Eye on Earth” http://t.co/ANyiqZzHnZ Climate chang ...	07:19:57	Apr 18	2013	4	0	0	0	1	0	1	0	1
+54	RT @EUEnvironment: Publication: EEA Signals 2013 - Every breath we take: Improving air quality in Europe: Signals 2013 focuses on... htt ...	08:10:27	Apr 16	2013	14	0	0	0	1	0	1	0	0
+55	Explore and create in Eye on Earth. Read our latest blog post on Eye on Earth basic training. Feedback welcome. http://t.co/pBrAbMt7Tq	08:09:03	Apr 16	2013	1	0	0	0	0	0	0	0	1
+56	RT @gischethans: Real-time map of all #forests on Earth launches next month http://t.co/FOI6oxLf3s	10:16:24	Apr 15	2013	1	4	1	0	1	0	1	0	1
+57	RT @peterkjeld: @JanezPotocnikEU suggests an EU clean up day to include public more Marine LitterWatch #eoemlw in @eyeonearthorg can be used	09:56:03	Apr 12	2013	1	0	1	0	1	0	3	0	0
+58	RT @EUEnvironment: #Infographic: Indoor air pollution can trigger serious health problems. (From Signals 2013 – out next week!) #EurAir  ...	09:52:30	Apr 12	2013	23	0	2	0	1	0	1	0	0
+59	RT @Malene_Bruun: Stronger coop at regional/ global level key to combat marine litter says Commissioner Potoznick @MLConfB @EyeonEarthor ...	09:52:18	Apr 12	2013	1	0	0	0	1	0	3	0	0
+60	RT @peterkjeld: Android app Marine LitterWatch #eoemlw support monitoring and data sharing on @EYEonEARTHorg  ready mid May @MLConfB htt ...	09:51:57	Apr 12	2013	4	0	1	0	1	0	3	0	0
+61	RT @Malene_Bruun: Upcoming Marine Litter Watch #eoemlw is one of the important citizenscience projects in Eye on Earth @eyeonearthorg sa ...	10:29:34	Apr 11	2013	2	0	1	0	1	0	2	0	0
+62	RT @rodney_forster: #MyOcean data for the global ocean and Med now available to see on the @EYEonEARTHorg portal.	14:21:48	Apr 10	2013	2	0	1	0	1	0	2	0	0
+63	Eye on Earth mentioned as way to explore crowd sourcing potential for GIO land. #MonitoringMatters	14:20:27	Apr 10	2013	0	0	1	0	0	0	0	0	0
+64	RT @Malene_Bruun: RT @MarineLitterNew: There is no regular monitoring of #MarineLitter in the Baltic sea @MLConfB new Marine LitterWatch ...	14:10:08	Apr 10	2013	2	0	1	0	1	0	3	0	0
+65	RT @peterkjeld: Preparing for Marine Litter conf @Berlin @MLConfB – check out our up-coming app for marine litter monitoring #eoemlw htt ...	14:09:44	Apr 10	2013	1	0	1	0	1	0	3	0	0
+66	RT @MLConfB:#MarineLitter is growing - impacts marine environment significantly, microplastics a new threat, more needs to happen! #eoemlw	13:57:07	Apr 10	2013	2	0	2	0	1	0	1	0	0
+67	RT @MLConfB: A good neigbourhood policy is also needed to tackle marine litter #eoemlw	13:53:08	Apr 10	2013	1	0	1	0	1	0	1	0	0
+68	Marine litter watch #eoemlw mooted for the future use of Eye on Earth by EEA Director Jacqueline McGlade. 2nd MyOcean User Workshop	07:43:43	Apr 09	2013	2	0	1	0	0	0	0	0	0
+69	Take a look at MyOcean in Eye on Earth http://t.co/VgiAGdnS12	07:28:32	Apr 09	2013	2	1	0	0	0	0	0	0	1
+70	Eye on Earth @ 2nd MyOcean user workshop http://t.co/WyRhzOdKtn	07:18:22	Apr 09	2013	2	0	0	0	0	0	1	0	1
+71	RT @gary_hayden: Data-driven maps take cartography a step forward: Part II | News http://t.co/Igb8L4Ea5b	08:40:05	Apr 08	2013	5	0	0	0	1	0	1	0	1
+72	MyOcean maps http://t.co/nVWPVOhzVI now in Eye on Earth ahead of 2nd MyOcean User Workshop http://t.co/qClYjTTcqm	14:35:29	Apr 05	2013	0	0	0	0	0	0	0	0	1
+73	RT @Malene_Bruun: RT @MLConfB: Final programme now online: http://t.co/2eUgfzZcgD. Marine LitterWatch presented during speed presentatio ...	13:47:02	Apr 05	2013	2	0	0	0	1	0	2	0	1
+74	Great @NASA video showing sea ice max extent for 2013. Now the melt begins. http://t.co/RM11BTyqjw	08:32:17	Apr 05	2013	1	0	0	0	0	0	1	0	1
+75	RT @cleanairnetwork: Concept pollution mask maps Shanghai air quality in real-time http://t.co/Zn9FmfDBB8	09:47:48	Apr 04	2013	4	0	0	0	1	0	1	0	1
+76	RT @EUEnvironment: #Infographic: main sources of air pollution in #Europe. This is from Signals 2013 - out later this month! #EurAir htt ...	09:47:14	Apr 04	2013	31	0	3	0	1	0	1	0	0
+77	RT @Malene_Bruun: @EYEonEARTHorg Working hard on developing the pilot version of Marine LitterWatch due mid-May #citizenscience #eoemlw	09:06:15	Apr 03	2013	1	0	2	0	1	0	2	0	0
+78	All First Eye on earth User Conference presentations and speeches now online http://t.co/Apolik5al9 #eoeuc	08:57:43	Apr 02	2013	2	2	1	0	0	0	0	0	1
+79	Arctic sea ice reached its maximum extent for the year on March 15, marking the beginning of the melt season. http://t.co/sJgikkF8Yd	14:53:08	Mar 26	2013	2	0	0	0	0	0	0	0	1
+80	RT @EUEnvironment: Happy World Water Day! Our ecosystems, society and economy all need clean fresh water to thrive. #waterday http://t.c ...	10:47:54	Mar 22	2013	70	0	1	0	1	0	1	0	0
+81	A very happy World Water Day to you! Here's a @EUEnvironment map about water quality in groundwater http://t.co/tfyN07SYTx #WWD	10:37:04	Mar 22	2013	8	1	1	0	0	0	1	0	1
+82	RT @NotasdeCCS: @EYEonEARTHorg is present now in the IDB #climatechange http://t.co/n9uG45mKDz	14:17:14	Mar 21	2013	1	0	1	0	1	0	2	1	0
+83	Happy International Day of Forests! Have a a look at this EEA map of European forests: http://t.co/3LgvJuGOm6 #ForestDay	12:35:08	Mar 21	2013	0	1	1	0	0	0	0	0	1
+84	RT @thepizzamap: My new favorite website for #GIS base #maps  http://t.co/3DI2RldE8o	08:24:08	Mar 13	2013	0	0	2	0	1	0	1	0	1
+85	Muki Haklay on #eoeuc: http://t.co/A8RTKO3tTQ	08:22:48	Mar 13	2013	0	0	1	0	0	0	0	0	1
+86	Final day #eoeuc photo gallery now online https://t.co/FB1rwNBwbo	10:52:22	Mar 08	2013	0	0	1	0	0	0	0	0	1
+87	A real eye opener. Read more about Day 3 of #eoeuc http://t.co/I6C8zOGH5H	07:33:53	Mar 07	2013	3	2	1	0	0	0	0	0	1
+88	RT @GeospatialM: Jacqueline McGlade - We need to collaborate with ones who we are not familiar with...that is the way forward #eoeuc	16:22:28	Mar 06	2013	2	0	1	0	1	0	1	0	0
+89	The Eye on Earth Alliance: convene, converge collaborate. See you at the next User Conference #eoeuc	16:20:11	Mar 06	2013	2	0	1	0	0	0	0	0	0
+90	RT @stefanjensendk: #eoeuc Jacquie"s talk - one interpretation: Eye On Earth is to solve wicked problems through alliances of communitie ...	16:17:14	Mar 06	2013	2	0	1	0	1	0	1	0	0
+91	Eye on Earth can provide a wrap around world - Jacqueline McGlade #eoeuc closing session	16:11:25	Mar 06	2013	1	0	1	0	0	0	0	0	0
+92	RT @DAStanners: Eye on Earth is a critical component for geodesign says Dean Angelides (ESRI) #eoeuc	15:44:01	Mar 06	2013	1	0	1	0	1	0	1	0	0
+93	RT @mhaklay: Harvey Simon (EPA) #eoeuc - ease of use is very hard to do. For EoE research on usability of geo info is important http://t ...	15:20:22	Mar 06	2013	1	0	1	0	1	0	1	0	0
+94	RT @stefanjensendk: #eoeuc Harvey Simon shows us many "Eye On Earth" like applications to support their and their partners environmental ...	15:08:02	Mar 06	2013	1	0	1	0	1	0	1	0	0
+95	RT @mhaklay: #eoeuc Frank McCosker talk start with a video of "Microsoft 4Afrika 'Mawingu' TV white space broadband project" http://t.co ...	14:43:10	Mar 06	2013	2	0	1	0	1	0	1	0	0
+96	RT @EsriEnvironment: Closing out the first Eye on Earth UC #eoeuc today with speakers from #Microsoft USEPA #ESRI and Abu Dhabi Env Agency	14:27:05	Mar 06	2013	4	0	3	0	1	0	1	0	0
+97	RT @DAStanners: Yes vote at #eoeuc: UNEP Live and Eye on Earth can liven up State of Environment reporting. Just 2 abstentions: it would ...	14:26:52	Mar 06	2013	1	0	1	0	1	0	1	0	0
+98	RT @paul_c_smits: Eye on Earth needs GEOSS and GEOSS needs Eye on Earth #eoeuc	14:26:46	Mar 06	2013	4	0	1	0	1	0	1	0	0
+99	RT @siams_chms: @EYEonEARTHorg. Hacia una red global de seguimiento ambiental compartiendo geoinformacin. http://t.co/Nd9SyhBjr4.	12:47:03	Mar 06	2013	2	0	0	0	1	0	2	0	1
+100	RT @mhaklay: Lots of societal benefits comments at #eoeuc about education - there should be a link to UNESCO's WSIS+10 http://t.co/JIEi4 ...	12:37:29	Mar 06	2013	1	0	1	0	1	0	1	0	0
+101	#eoeuc day 2 gallery now on Facebook https://t.co/PJaiLO8jSh	11:49:26	Mar 06	2013	0	0	1	0	0	0	0	0	1
+102	RT @925tim: MyOcean user forum 9-10th April in Copenhagen - bringing users together. #eoeuc	11:48:25	Mar 06	2013	1	0	1	0	1	0	1	0	0
+103	RT @925tim: Gary Foley: On geo uic: Don't ask users what they need - ask them what they do #eoeuc	11:21:43	Mar 06	2013	3	0	1	0	1	0	1	0	0
+104	RT @EsriEnvironment: Special thanks to EEA Eye on Earth training team Jan, Seb and Jesse for all the great tips and tricks in the #eoeuc ...	11:21:19	Mar 06	2013	1	0	1	0	1	0	1	0	0
+105	RT @brianmacsharry: #EyeonEarth really shows how #GIS is moving from your desk to the world and to everyone- as a GISer it is great to s ...	10:40:54	Mar 06	2013	3	0	2	0	1	0	1	0	0
+106	RT @brianmacsharry: #EyeonEarth is bringing #GIS to the wider public. I am always amazed at how the technology is evolving and adapting  ...	10:40:51	Mar 06	2013	1	0	2	0	1	0	1	0	0
+107	RT @brianmacsharry: Eye on Earth: A map based platform allows citizens and policy makers to incorporate environmental issues into decisi ...	10:37:39	Mar 06	2013	2	0	0	0	1	0	1	0	0
+108	RT @mhaklay: McGlade @ #eoeuc - linking aspects of wellbeing to climate change can be done through information and representations	09:58:51	Mar 06	2013	1	0	1	0	1	0	2	0	0
+109	Day 3 of #eoeuc just started. Follow it live here http://t.co/Qye6fCIcFF	09:35:58	Mar 06	2013	0	0	1	0	0	0	0	0	1
+110	Day 3 of #eoeuc is just an hour away. Meanwhile check out what went on yesterday on our blogpost http://t.co/tvdOSO69GG	08:37:06	Mar 06	2013	3	0	1	0	0	0	0	0	1
+111	RT @jdevoo: @EYEonEARTHorg is showing that #sustainability is not just a top-down matter at #eoeuc	08:22:15	Mar 06	2013	1	0	2	0	1	0	2	0	0
+112	RT @stefanjensendk: #eoeuc Open government, open data, linked data and their contribution to EoE in one session … still a way to go on i ...	18:04:22	Mar 05	2013	2	0	1	0	1	0	1	0	0
+113	Day of #eoeuc comes to a close with the launch of the Global of Networks http://t.co/LT9FRYWDiy http://t.co/41n6nzLJ1N	17:19:09	Mar 05	2013	0	0	1	0	0	0	0	1	1
+114	H. E. Razan Khalifa al Mubarak is greeted by EEA director. Day 2 #eoeuc http://t.co/xhKGXBUnDq	15:57:56	Mar 05	2013	1	0	1	0	0	0	0	1	0
+115	RT @WSonntag: #eoeuc EU, US, Danish, Irish institute all working on open, linked data. How do networks like EoE assimilate these techniq ...	15:32:41	Mar 05	2013	1	0	1	0	1	0	1	0	0
+116	Day 2 parallel sessions beginning now. Follow live http://t.co/Qye6fCIcFF or keep up to date on #eoeuc	14:00:27	Mar 05	2013	1	0	1	0	0	0	0	0	1
+117	RT @EsriEnvironment: @EsriIreland Irish Minister and Esri team at the opening of the Eye on Earth User Conference at the new CCD #eoeuc  ...	12:55:53	Mar 05	2013	2	0	1	0	1	0	2	0	0
+118	RT @paul_c_smits: Streamlining environmental information should become Streamlining environmental solutions  #eoeuc	12:05:54	Mar 05	2013	3	0	1	0	1	0	1	0	0
+119	RT @JacquieMcGlade: #eoeuc mcdevette fractal pattern of outreach great way to describe multiple way of communication and capacity building	11:57:45	Mar 05	2013	1	0	1	0	1	0	1	0	0
+120	Panel session on streamlining environmental info - regional to global #eoeuc http://t.co/Qck1us1Sap	11:54:05	Mar 05	2013	1	0	1	0	0	0	0	1	0
+121	RT @a_ballatore: Barbara Ryan (GEO): we won't be judged on infrastructures, but on the results that they deliver #eoeuc	11:43:52	Mar 05	2013	4	0	1	0	1	0	1	0	0
+122	Eye on Earth User? Citizen scientist? Sharing is most definitely everything...#eoeuc http://t.co/kvEU6J56Se	11:01:14	Mar 05	2013	2	1	1	0	0	0	0	1	0
+123	RT @EsriEnvironment: @DrCostisToregas says that the Eye on Earth Network can be "the glue" between government and industry, decision mak ...	10:49:14	Mar 05	2013	2	0	0	0	1	0	2	0	0
+124	RT @brianmacsharry: @DrCostisToregas partnerships need to be built on shared objectives and trust, need to build the social capital #eoeuc	10:40:08	Mar 05	2013	1	0	1	0	1	0	2	0	0
+125	RT @karldonert: #citizenscience helps connect data to community, cross-boundary leadership, partnership unlocks potential #eoeuc http:// ...	10:39:55	Mar 05	2013	3	0	2	0	1	0	1	0	0
+126	RT @EsriEnvironment: Dr Costis shows us the law of large numbers should give confidence that crowd sourced data is not so random with ma ...	10:34:36	Mar 05	2013	2	0	0	0	1	0	1	0	0
+127	Photo gallery of Day 1 of #eoeuc online https://t.co/PJaiLO8jSh	10:20:33	Mar 05	2013	0	0	1	0	0	0	0	0	1
+128	RT @JacquieMcGlade: #eoeuc mcdevette provides good motivation to make UNEP Live work	10:19:35	Mar 05	2013	2	0	1	0	1	0	1	0	0
+129	RT @karldonert: #UNEP live, s this how to connect to citizens? Rethink needed opportunity to action http://t.co/5XO9TCiGeX #eoeuc http:/ ...	10:19:27	Mar 05	2013	1	0	2	0	1	0	1	0	1
+130	RT @mhaklay: MacDevette - UNEP see the value in citizen science in making actions local while progressing towards global goals #eoeuc	10:10:49	Mar 05	2013	1	0	1	0	1	0	1	0	0
+131	Storytelling - best way to make sense of what the planet is telling us. Monika MacDevette, UNEP #eoeuc	09:57:24	Mar 05	2013	3	1	1	0	0	0	0	0	0
+132	Day 2 of #eoeuc is up and running. Follow it live here http://t.co/Qye6fCIcFF	09:52:32	Mar 05	2013	2	0	1	0	0	0	0	0	1
+133	Communities will pave the way for Eye on Earth. Read about Day 1 of #eoeuc in our blogpost http://t.co/21FXPIntM4	08:18:36	Mar 05	2013	7	2	1	0	0	0	0	0	1
+134	RT @brianmacsharry: @Gazymodo  shows a fantastic example of using the #EsriMaps function in Microsoft Excel. This is just fantastic! #eoeuc	16:08:01	Mar 04	2013	3	0	2	0	1	0	2	0	0
+135	INSPIRE is the single largest effort to collect environmental data in the European domain. Paul Smits at infrastructure session #eoeuc	14:54:55	Mar 04	2013	4	0	1	0	0	0	0	0	0
+136	RT @trakasa: @stefanjensendk on the EoE infrastructure at the #eoeuc - the infrastructure is based on web services based on #open #standards	14:49:04	Mar 04	2013	2	0	3	0	1	0	2	0	0
+137	@UKLadybirds Ladybird app coming soon! #eoeuc	14:43:24	Mar 04	2013	0	0	1	1	0	0	1	0	0
+138	RT @925tim: A mildew ladybird - 46000 citizen science observations in uk. #eoeuc http://t.co/hKXDGo63t2	14:35:15	Mar 04	2013	1	0	1	0	1	0	1	1	0
+139	It's a new era of environmental information. Information for the public, by the public. Muki Haklay, citizen science session at #eoeuc	14:26:38	Mar 04	2013	4	0	1	0	0	0	0	0	0
+140	Role of EIONET needs to evolve and change in line with new vision for Eye on Earth. Networking session of #eoeuc	14:20:26	Mar 04	2013	0	0	1	0	0	0	0	0	0
+141	RT @CitSciCentral: Network session is great, wish the concurrent citizen science session were streaming, too! @EYEonEARTHorg #eoeuc	14:18:01	Mar 04	2013	1	0	1	0	1	0	2	0	0
+142	RT @EsriEnvironment: Children today will be policy makers tomorrow and they have an expectation for immediate information. #eoeuc	11:54:59	Mar 04	2013	5	0	1	0	1	0	1	0	0
+143	#eoeuc the Commission wants to work with the communities at European and global level http://t.co/JuRMyanJvn	11:49:56	Mar 04	2013	2	0	1	0	0	0	0	1	0
+144	#eoeuc Eye on Earth can fit into a community of communities. Edwards	11:44:55	Mar 04	2013	0	0	1	0	0	0	0	0	0
+145	Alan Edwards: We need a policy framework that encourages rather than stifles sustainability initiatives #eoeuc	11:37:45	Mar 04	2013	2	0	1	0	0	0	0	0	0
+146	#eoeuc Don't forget you can download all presentations from http://t.co/uv5ulZgJIK	11:31:35	Mar 04	2013	1	2	1	0	0	0	0	0	1
+147	Citizens should be involved in environmental monitoring. Citizen observatories should address this. Alan Edwards #eoeuc	11:24:16	Mar 04	2013	1	1	1	0	0	0	0	0	0
+148	RT @peterbartonlyon: #eoeuc #esriireland Alan Edwards. Above all, future systems should be just "fit for purpose"	11:22:57	Mar 04	2013	1	0	2	0	1	0	1	0	0
+149	Education will be addressed in the Citizen Science session today and on Wednesday in the societal benefits session #eoeuc	11:21:34	Mar 04	2013	0	0	1	0	0	0	0	0	0
+150	RT @mhaklay: Volker Liebig (Earth Observation @ ESA) we will have an amount of data we never had before #eoeuc - how to make sense of it ...	11:10:22	Mar 04	2013	1	0	1	0	1	0	2	0	0
+151	Volker Liebig: 330+ organizations ready to use data from Sentinels #eoeuc http://t.co/9K9HCwNkY2	11:04:11	Mar 04	2013	1	0	1	0	0	0	0	1	0
+152	RT @brianmacsharry: Sea level can vary by 200m across the globe, never realized it varied by that much! #eoeuc	10:58:30	Mar 04	2013	1	0	1	0	1	0	1	0	0
+153	RT @EsriEnvironment: "Why share information? We need to be nimble!" Jacqueline McGlade #eoeuc	10:45:25	Mar 04	2013	1	0	1	0	1	0	1	0	0
+154	Imagine people participating through their daily lives to get a global vision of the Earth. This is our vision #eoeuc http://t.co/zj5kjRLqiu	10:44:40	Mar 04	2013	0	0	1	0	0	0	0	1	0
+155	Idea of being able to circulate info rapidly is very important. Jacqueline McGlade #eoeuc	10:40:55	Mar 04	2013	0	0	1	0	0	0	0	0	0
+156	RT @EsriEnvironment: Jacqueline McGlade "even casual users can participate in Eye on Earth" #eoeuc http://t.co/BMYanMvpDb	10:35:54	Mar 04	2013	5	0	1	0	1	0	1	1	0
+157	RT @peterbartonlyon: Sharing and collaboration of geospatial reference layers enabled and supported by Esri. Jacqueline McGlade. 
+#eoeuc	10:35:25	Mar 04	2013	1	0	1	0	1	0	1	0	0
+158	Inspiration from EEA Director Jacqueline McGlade - we need to develop cooperation and collaboration skills #eoeuc http://t.co/EW1Ga5boW3	10:29:22	Mar 04	2013	1	0	1	0	0	0	0	1	0
+159	RT @EsriEnvironment: Over 77 countries represented at the first Eye on Earth User Conference! #eoeuc	10:20:56	Mar 04	2013	3	0	1	0	1	0	1	0	0
+160	RT @mhaklay: P.Hogan (env minister Ire): democratising env info by availing to anyone with internet access #eoeuc passive provision != d ...	10:20:34	Mar 04	2013	1	0	1	0	1	0	1	0	0
+161	Phil Hogan highlights Dublin's advanced use Eye on Earth's NoiseWatch app #eoeuc	10:20:19	Mar 04	2013	0	0	1	0	0	0	0	0	0
+162	RT @a_ballatore: The Dublin Convention Centre is an amazing venue. #eoeuc	10:15:55	Mar 04	2013	2	0	1	0	1	0	1	0	0
+163	Irish Environment Minister Phil Hogan licks off proceedings at #eoeuc http://t.co/4Ffh2FnFsP	10:13:52	Mar 04	2013	1	0	1	0	0	0	0	1	0
+164	One hour to go to start of the First Eye on Earth User Conference. Follow it here: http://t.co/6WB2X6Yc5b #eoeuc	08:52:29	Mar 04	2013	4	0	1	0	0	0	0	0	1
+165	We're at the Convention Centre Dublin now preparing for the kick-off of #eoeuc http://t.co/720oUfUi5T	20:01:58	Mar 03	2013	0	0	1	0	0	0	0	1	0
+166	Don't forget you can still register for #eoeuc http://t.co/rqMRUWs94g. See you tomorrow	13:10:04	Mar 03	2013	1	0	1	0	0	0	0	0	1
+167	On our way to Dublin for the First Eye on Earth User Conference. Follow it on our live stream http://t.co/6WB2X6Yc5b #eoeuc	13:09:09	Mar 03	2013	4	0	1	0	0	0	0	0	1
+168	@vanessafranko: Using @Esri's ArcGIS Online, I mapped the @Facebook popularity of the #Coachella2013 lineup. http://t.co/3Sc5w9c7sj”. #eoe”	18:18:36	Mar 01	2013	0	0	2	1	0	0	3	0	1
+169	EEA climate change and flood risk in European cities map created and shared with Eye on Earth tools.http://t.co/o4PzhgH1gA  #eoeuc	14:50:06	Mar 01	2013	6	0	1	0	0	0	0	0	1
+170	Who are Eye on Earth users? Read more about this and our first User Conference, Dublin, 4-6 March http://t.co/RWz4wpZB9E #eoeuc #gis	10:09:54	Mar 01	2013	5	0	2	0	0	0	0	0	1
+171	Want to ask speakers at #eoeuc a question? follow the plenary sessions at http://t.co/Qye6fCIcFF then tweet your question. Remember the #	14:55:43	Feb 28	2013	4	0	1	0	0	0	0	0	1
+172	RT @Gazymodo: Finishing the preaparation for @EYEonEARTHorg trainings session at first #eoeuc next week in Dublin! See u there #gis #eoeuc	09:15:05	Feb 28	2013	0	0	3	0	1	0	2	0	0
+173	Can't join us in Dublin for the User Conference? We will stream some sessions:http://t.co/JKmlzZ6l79 #eoeuc	16:09:51	Feb 26	2013	3	0	1	0	0	0	0	0	1
+174	RT @russia_ru_rus: #EEA McGlade said #EyeOnEarth now incl data fr #Russia &amp; new #European countries #FedGIS http://t.co/pR7C0OWbXN	08:50:29	Feb 26	2013	0	0	5	0	1	0	1	0	1
+175	RT @EsriFederalGovt: Thanks Jacqueline McGlade for being a great keynote speaker at #FedGIS!!! http://t.co/6WB2X6Yc5b	08:49:41	Feb 26	2013	0	0	1	0	1	0	1	0	1
+176	RT @EsriFederalGovt: RT @geotellus: #FedGIS. See the whole Planet Re:Think video here: http://t.co/CS52JRe24a #EEA @EYEonEARTHorg	06:43:19	Feb 26	2013	1	0	2	0	1	0	3	0	1
+177	RT @geotellus: #FedGIS see more about @EYEonEARTHorg here http://t.co/3oEkhTMaRP	06:43:04	Feb 26	2013	3	0	1	0	1	0	2	0	1
+178	RT @EsriFederalGovt: RT @jsteffenson: RT @geotellus: #FedGIS see more about @EYEonEARTHorg here http://t.co/67mYlR88ZN	06:42:54	Feb 26	2013	1	0	1	0	1	0	4	0	1
+179	RT @geotellus: #FedGIS. See the whole Planet Re:Think video here: http://t.co/Cy6yvB92H8 #EEA @EYEonEARTHorg	16:22:47	Feb 25	2013	7	0	2	0	1	0	2	0	1
+180	Happy to announce H.E. Razan Khalifa Al Mubarak will speak at #eoeuc in  Dublin. Two weeks to go:http://t.co/Te13Ra1d	11:48:59	Feb 20	2013	0	0	1	0	0	0	0	0	1
+181	RT@EdWallington: Eye on Earth User Conference - sharing environmentally relevant data and information http://t.co/YpxpvXBY #gis #eoeuc	09:28:13	Feb 19	2013	1	1	2	0	1	0	0	0	1
+182	“@Lieven_Verheust: Astroid in Chelyabinsk: Check out my social network map with movies &amp;amp; pictures http://t.co/zwQf6fni #EsriSMT” #eoe	19:56:18	Feb 16	2013	0	0	2	1	0	0	0	0	1
+183	RT @EUEnvironment: @EYEonEARTHorg #NoiseWatch (http://t.co/iYCgwXy5) allows sharing your #noise experience &amp; viewing observations. M ...	12:54:04	Feb 14	2013	3	0	2	0	1	0	2	0	1
+184	RT @FaunaliaGIS: Iceland announces that #geo-information is free http://t.co/hIsmO8T1 #GIS #spatialdata	08:55:30	Feb 12	2013	2	0	3	0	1	0	1	0	1
+185	RT @nordpil: #WorldBank: The Power of the Crowd: Mapping schools and hospitals http://t.co/ntXCd8MQ  #crowdsourcing #maps #development	08:54:29	Feb 12	2013	0	0	4	0	1	0	1	0	1
+186	2012 saw a record:1.035 billion international #tourists! More info here: http://t.co/BXGwg6H7 #tourism #UNWTO http://t.co/Rq1lpnnJ	08:59:56	Feb 11	2013	0	0	3	0	0	0	0	0	1
+187	RT @ElaMi5: Mobile app allows #realtime noise monitoring, in line with the EU environmental #noise directive http://t.co/iDBhxwon	17:33:34	Feb 05	2013	2	0	2	0	1	0	1	0	1
+188	Bring the noise! New blog about updates to NoiseWatch http://t.co/ovQNchf9 #EoE	12:50:41	Feb 01	2013	5	2	1	0	0	0	0	0	1
+189	RT @lchiri30: NoiseWatch - Share your noise experience http://t.co/c66SsGrI	11:44:02	Jan 29	2013	0	0	0	0	1	0	1	0	1
+190	RT @Vaibmu: Noise map! http://t.co/zpdTfshM	11:43:54	Jan 29	2013	2	1	0	0	1	0	1	0	1
+191	Conferences on geographic digital information — @EUenvironment) http://t.co/aVcdcGI6 #GI #GIS #EoE # EoEUC	11:41:14	Jan 29	2013	5	0	3	0	0	0	1	0	1
+192	Now you can register: First Eye on Earth User Conference, Dublin, 4-6 March: http://t.co/Te13Ra1d #eoeuc	08:01:56	Jan 16	2013	3	1	1	0	0	0	0	0	1
+193	#map in #EyeonEarth compares measurements from across Europe (NO2, PM10, traffic, background): http://t.co/MRfs1tG6 http://t.co/aKI9EgYG	14:51:32	Jan 15	2013	3	1	2	0	0	0	0	0	1
+194	RT @HakimAbdi: FORSAT to Develop Satellite Platform for Forest Assessment http://t.co/my9fCryE	10:01:45	Jan 15	2013	1	1	0	0	1	0	1	0	1
+195	We're gearing up for the First Eye on Earth User Conference. Read more http://t.co/kQOMjZ6H #EoEUC	15:38:21	Jan 11	2013	3	0	1	0	0	0	0	0	1
+196	RT @RiverLink: What cities look like from space: http://t.co/Jgv04XGI	09:45:50	Jan 09	2013	0	0	0	0	1	0	1	0	1
+197	RT @mass_digi: This is cool. @EYEonEARTHorg - interactive maps, crowdsourced science initiative http://t.co/dhG17a4l	12:59:37	Jan 08	2013	2	0	0	0	1	0	2	0	1
+198	RT @INSPIRE_EU: The 2013 DUBLIN CONFERENCES’ week, an Irish Presidency Associated Event, will take place from 4-3-2013 until 8-3-2013
+ht ...	11:20:35	Dec 20	2012	7	0	0	0	1	0	1	0	0
+199	#EoEUC and #EUROGI CONFERENCE in Dublin. Save the Date http://t.co/wscdBQzD	09:47:00	Dec 20	2012	2	1	2	0	0	0	0	0	1
+200	Whats New in #ArcGIS Online (December 2012) http://t.co/ymx38Cxg via @sharethis #eyeonearth	09:41:15	Dec 19	2012	0	0	2	0	0	0	1	0	1
+201	#EyeonEarth blog: this is what U.S. #IOOS tells about our collaboration http://t.co/nr8Hnp9D
+#map http://t.co/ybLww7HU	15:42:24	Dec 18	2012	0	0	3	0	0	0	0	0	1
+202	RT @RudolfLegat: Save the date 4 the first Eye on Earth user conference, an @EUEnvironment initiative on March 4th -6th 2013, Dublin, @E ...	09:43:14	Dec 17	2012	1	0	0	0	1	0	3	0	0
+203	A Good #Map Teaches You To Ask A Better Question http://t.co/AcJafnG8 via @sharethis	08:48:41	Dec 17	2012	2	0	1	0	0	0	1	0	1
+204	RT@josephkerski: video on editable feature services:  http://t.co/9jwnzySN Powerful for education and beyond.  #esri #gis #eyeonearth	08:47:24	Dec 17	2012	3	0	3	0	1	0	0	0	1
+205	RT @AEROmetrex: #map of all the Virtual #City models available in the world. Europe is definitely in lead http://t.co/t1QISvfr #GIS	11:45:19	Dec 14	2012	1	0	3	0	1	0	1	0	1
+206	Ever heard about #EMAS? Read #EyeonEarth blog post and check out the #map: http://t.co/P7UpeOvH http://t.co/O3puB6MA	10:42:39	Dec 14	2012	2	0	3	0	0	0	0	0	1
+207	RT @GeoMmm: #map: Kenya: Climate Prediction Center’s Africa Hazards Outlook For USAID / FEWS-NET http://t.co/RHk5s2zJ #UN	08:27:10	Dec 13	2012	1	0	2	0	1	0	1	0	1
+208	RT @gary_hayden: What Cities Could Disappear from rising sea levels http://t.co/2Yj52wIM #Geography #GIS #Maps	08:18:10	Dec 13	2012	0	0	3	0	1	0	1	0	1
+209	RT @zysal: GIS &amp; Remote Sensing is out! http://t.co/dclnPKDO ? Top stories today via @ana_paulagarcia @EYEonEARTHorg @gisjourno	09:28:57	Dec 12	2012	0	0	0	0	1	0	4	0	1
+210	RT @digitaleartheu: Digital earth meeting, Salzburg, http://t.co/Cl1NPIhb presentation -are you using it yet?: http://t.co/DFKcZX5Q	14:53:38	Dec 11	2012	2	0	0	0	1	0	1	0	1
+211	RT@MarBiolNews: Anthropogenic activity in the deep #sea:  interactive #EyeOnEarth website http://t.co/WnlVr0nw	14:51:14	Dec 11	2012	1	0	2	0	1	0	0	0	1
+212	RT @OpenDataIT: An Eye on Environmental Collboration  - http://t.co/pafB4Aq8 #EyeOnEarth #Microsoft #Esri #GIS #Cloud #OpenData #FutureGov	14:49:54	Dec 11	2012	1	1	7	0	1	0	1	0	1
+213	RT @EUEnvironment: 18 of the 20 largest #car manufacturers were below their 2012 #CO2 targets in 2011, with the remaining 2 very close.  ...	14:49:24	Dec 11	2012	9	0	2	0	1	0	1	0	0
+214	Earth's true shape revealed for first time http://t.co/2xPYdDUh via @youtube	10:40:20	Dec 11	2012	1	0	0	0	0	0	1	0	1
+215	Satellite eye on Earth: this is one of the November pictures. Could you guess the city? http://t.co/DkoY6ONY via @ http://t.co/AgSxOYmH	08:47:11	Dec 11	2012	1	0	0	0	0	0	1	0	1
+216	RT@GIS_Feed:esri Prototype Blog: Inspired by theÊhypnoticallyÊsimple but elegantÊwind #map we challenged ourselves! http://t.co/aNjaE1WJ	08:42:26	Dec 11	2012	0	0	1	0	1	0	0	0	1
+217	RT@nordpil: Timely! RT @gridarendal: Historical trends in carbon dioxide concentrations and temp  http://t.co/RHl4cIVx #climate #green	09:12:43	Dec 07	2012	0	0	2	0	1	0	1	0	1
+218	#Map of #Europe: 1000 AD to present day - Avrupa Haritasõ: MS 1000 ve Gn...: http://t.co/VgxF0GVj via @youtube	09:08:22	Dec 06	2012	3	0	2	0	0	0	1	0	1
+219	Very interesting European #crowdsourcing project: ENERGIC http://t.co/FccjtFRK	12:16:32	Dec 05	2012	0	0	1	0	0	0	0	0	1
+220	#Infographic: Diversity in Online #Volunteering via @UNVolunteers #IVD2012 http://t.co/0Kr1VkOv	12:08:46	Dec 05	2012	0	1	3	0	0	0	1	0	1
+221	Happy International #VolunteerDay to all those making great work all around the world:http://t.co/NV0mRU7t #IVD2012	12:05:18	Dec 05	2012	0	0	2	0	0	0	0	0	1
+222	RT @discomap: #LAND Migration of our servies for #CLC to 10.1 - The #WGS84 and Cached services are discontinued, if it is a problem cont ...	10:08:52	Dec 05	2012	1	0	3	0	1	0	1	0	0
+223	RT @Dothegreenthing: Tomorrow is International Volunteer Day. We have 9 things you can do. From easy peasy to a bit sweaty http://t.co/j ...	13:31:36	Dec 04	2012	6	0	0	0	1	0	1	0	0
+224	Good read: If children lose contact with #nature they won't fight for it? http://t.co/XjkI36eY http://t.co/kNWcnIGH	09:45:47	Dec 03	2012	1	0	1	0	0	0	0	0	1
+225	RT @lulex:How Do Humans Fit Into the 4.5 Billion Years of Life on Earth? (Video) : TreeHugger http://t.co/y68HbdUN	06:44:46	Dec 03	2012	1	0	0	0	1	0	1	0	1
+226	RT @SkipCody: Tks Bruno, #FF GR8 Grp @_brunorprado @ClickGeo @EYEonEARTHorg @MappingGIS @USGSLandsat @CanadianGIS @RGS_IBG @sc_consultor ...	18:12:52	Nov 30	2012	3	0	1	0	1	0	9	0	0
+227	A 4 degree #warmer world.#infographic by #WorldBank. #climatechange http://t.co/pG0C0Xc5	10:18:33	Nov 30	2012	2	0	4	0	0	0	0	0	1
+228	Brilliant video: the History of #ClimateChange Negotiations in 83 seconds. Enjoy :) : http://t.co/3V6ZesWp	09:50:51	Nov 29	2012	5	2	1	0	0	0	0	0	1
+229	RT @josephkerski: nice article about Allen Carroll at Esri and Storymaps:  http://t.co/G9n54HNk #esri #gis	08:31:42	Nov 29	2012	0	1	2	0	1	0	1	0	1
+230	RT@_brunorprado:Free book:Principles of #Geographic Information Systems: An Introductory Textbook http://t.co/NPlXarQh #gis #maps	08:11:55	Nov 29	2012	1	0	3	0	1	0	0	0	1
+231	Interesting read. RT @Map_Town:Save the maps! http://t.co/GGWL19uS #map #archive #data #gis #historical #history	08:04:30	Nov 28	2012	1	0	6	0	0	0	1	0	1
+232	RT@annetdeboer: Don't let the maps fool ya! (part two) : the island that was never there. Sandy Island. http://t.co/J2nXaPKm  #gis	08:03:20	Nov 28	2012	0	0	1	0	1	0	0	0	1
+233	Real time #wind #map of the U.S: http://t.co/HKIPfoZf #data #visualization	09:29:40	Nov 27	2012	0	0	4	0	0	0	0	0	1
+234	RT@josephkerski: Explore activities and issues in the book #GIS Guide to Public Domain Data:  http://t.co/U2dj1eb1  #esri #gis #jillaclark	08:43:50	Nov 26	2012	0	0	4	0	1	0	0	0	1
+235	RT@SPIRAL_project: Using #EyeonEarth to support mapping of the #ecosystem services http://t.co/8DDP61zD #maps #biodiversity	08:36:28	Nov 26	2012	1	0	4	0	1	0	0	0	1
+236	It's the European Week for Waste Reduction. Find out what's going on near you: http://t.co/jHrl4Eb8 #EWWR	16:29:09	Nov 21	2012	3	0	1	0	0	0	0	0	1
+237	RT @spacegovuk: @EUEnvironment in case of interest - Space Solutions for Environmental Monitoring http://t.co/2LYdxRH6	16:18:47	Nov 20	2012	1	0	0	0	1	0	2	0	1
+238	Nice #map showing #twitter Languages in London http://t.co/LFIvc8rW via @spatialanalysis	15:21:37	Nov 16	2012	1	0	2	0	0	0	1	0	1
+239	@anactionmovie this is not #eyeonearth platform. The project is using Mapbox.	12:06:49	Nov 16	2012	0	0	1	1	0	0	1	0	0
+240	See the winners of #ImaginAir photo competition and enjoy @EyeonEarthorg #map: http://t.co/evKtmogK	14:34:44	Nov 15	2012	0	0	2	0	0	0	1	0	1
+241	RT @ElaMi5: @EYEonEARTHorg and @EUEnvironment are changing the game of environmental monitoring w/realtime feedback loops http://t.co/vA ...	09:01:17	Nov 15	2012	1	0	0	0	1	0	3	0	0
+242	“@discomap: Check EEA free map services on #Discomap http://t.co/JPAsgjuV #eyeonearth cc @EYEonEARTHorg #GISDay”	15:02:12	Nov 14	2012	2	0	3	0	0	0	1	0	1
+243	RT @BEITZandDAIGH: There is a #map for every story http://t.co/awT6S1kw #GISDay	14:05:15	Nov 14	2012	1	1	2	0	1	0	1	0	1
+244	RT@NWSChicago: Happy GIS day! Learn more about GIS within NOAA and the NWS. #GISday http://t.co/GmdD1P5z	13:59:58	Nov 14	2012	0	1	1	0	1	0	0	0	1
+245	Check EEA's @EUEnvironment free #map services: http://t.co/8Q5OjLjF  #GISday	13:58:58	Nov 14	2012	0	2	2	0	0	0	1	0	1
+246	RT @nordpil: GIS day is an excellent excuse to eat cake, right? http://t.co/TfQjQYY6 #maps #cake #cartography #gis	13:04:47	Nov 14	2012	0	0	4	0	1	0	1	0	1
+247	Discover @EUEnvironment #map services: #Discomap http://t.co/K9ED2UDj #GISday	12:55:41	Nov 14	2012	1	1	3	0	0	0	1	0	1
+248	Happy #GISday! Get inspired: http://t.co/50B0KUYU	08:03:39	Nov 14	2012	2	0	1	0	0	0	0	0	1
+249	RT @EUEnvironment: The #ImaginAIR finalists are now included in an @EYEonEARTHorg map. Find the photostory taken in your area here: http ...	12:10:05	Nov 13	2012	3	0	1	0	1	0	2	0	0
+250	@piccolavichinga #imaginair now it should be openly accessible	12:09:41	Nov 13	2012	0	0	1	1	0	0	1	0	0
+251	@piccolavichinga It was shared to everyone. Just checked - it workes.	12:30:37	Nov 12	2012	0	0	0	1	0	0	1	0	0
+252	Great collection of #maps http://t.co/wPkPoTfE #gis RT @janwillemmulder	08:15:58	Nov 12	2012	0	0	2	0	0	0	1	0	1
+253	RT@AnthonyNSmith:new mapping #portfolio! Visit my blog and leave a comment... http://t.co/FENJuHiU #GIS #Cartography #DataVisualization	08:11:58	Nov 12	2012	0	0	4	0	1	0	0	0	1
+254	#ImaginAir photo competition #map tweaked. Remember to vote for your favourites: http://t.co/d0rBGHJU #Eyeonearth http://t.co/aZjIwMT2	14:14:21	Nov 09	2012	2	0	3	0	0	0	0	0	1
+255	New blog post: #EyeonEarth at European #EsriUC.Enjoy. http://t.co/WxUusIxI	12:43:47	Nov 07	2012	3	2	2	0	0	0	0	0	1
+256	RT@Gazymodo: European Cities Are Getting Warmer | ArcNews http://t.co/jw2Tq9Rb #eyeonearth #esri	15:26:03	Nov 06	2012	1	0	2	0	1	0	0	0	1
+257	#ImaginAIR finalists are out. Enjoy the #map and remember to vote for your favourite: http://t.co/2HRJ8L34 http://t.co/WGyQJF9D	07:40:48	Nov 06	2012	0	1	2	0	0	0	0	0	1
+258	RT @robeirne: View Esri Interactive #Map Galleries http://t.co/6i9fj3UM #mapping #gis	07:38:23	Nov 06	2012	0	0	3	0	1	0	1	0	1
+259	#Infographic: Climate Change and Human Responsibility http://t.co/liz1SYNJ	14:38:55	Nov 05	2012	1	0	1	0	0	0	0	0	1
+260	RT @SacredEarthWork: Eye on Earth Declaration heading for Rio UN Summit 
+
+The declaration, signed by the UAE Ministry of Environment...  ...	14:34:57	Nov 05	2012	1	0	0	0	1	0	1	0	0
+261	RT @geoworldmedia: In depth "Eye on earth" - an interactive online network, created by EU agency for everyone alike http://t.co/MOMt1o92	14:34:41	Nov 05	2012	0	0	0	0	1	0	1	0	1
+262	“@WorldBank: Which countries publish the most books? Cool #map:Êhttp://t.co/nBhiXIcz”	12:33:07	Nov 03	2012	1	0	1	0	0	0	0	0	1
+263	#ImaginAIR finalists are out. Enjoy the #map and remember to vote for your favourite: http://t.co/2HRJ8L34 http://t.co/WGyQJF9D	15:52:20	Oct 31	2012	3	0	2	0	0	0	0	0	1
+264	RT @nytgraphics: Maps, charts and photos assessing the damage from Hurricane Sandy. http://t.co/HHuqm8CZ	14:25:20	Oct 30	2012	0	0	0	0	1	0	1	0	1
+265	RT @GISDoctor: Hurricane #Sandy data and maps http://t.co/fblz9Bv8 #GIS #Geo	07:44:52	Oct 30	2012	1	0	3	0	1	0	1	0	1
+266	track #Hurricane Sandy: http://t.co/jVfvKHos	07:42:55	Oct 30	2012	3	0	1	0	0	0	0	0	1
+267	RT @ElaMi5: great blog by @EYEonEARTHorg reflecting on Rio+ document and rapid feedback loops in environmental monitoring http://t.co/XU ...	14:15:14	Oct 29	2012	1	0	0	0	1	0	2	0	0
+268	RT @EUEnvironment: #ImaginAIR photostory finalists are out. Vote for your favourite: http://t.co/6miESvoq Here's a sample of air &amp; h ...	13:08:11	Oct 29	2012	3	0	1	0	1	0	1	0	1
+269	@karsenis Not sure, why you have decided to link to #AirWatch and not to #NoiseWatch	09:27:38	Oct 29	2012	0	0	2	1	0	0	1	0	0
+270	RT @Castlefan1010: I'm researching the #green movement and made this #survey: http://t.co/Pkp1t81l	08:29:19	Oct 29	2012	1	0	2	0	1	0	1	0	1
+271	new #EyeonEarth blogpost.Let us know what you think:http://t.co/qSsRbZRB http://t.co/qYI2rwZz	12:45:39	Oct 25	2012	2	0	1	0	0	0	0	0	1
+272	#infographic: #Groundwater in movement http://t.co/TqwI8hPG via @visually	06:44:47	Oct 24	2012	0	0	2	0	0	0	1	0	1
+273	RT @CharisPabia: Beyond #Infographics: 12 Ways to Visualize #Data http://t.co/FnUM7ZCt Forgot #maps	06:29:39	Oct 24	2012	0	0	3	0	1	0	1	0	1
+274	RT @EUEnvironment: It’s getting harder and harder to be a migratory #fish in #Europe. #biodiversity http://t.co/J5T40pNk	15:25:47	Oct 23	2012	1	0	3	0	1	0	1	1	0
+275	RT @genevievequirk:Roadlessness:an idea to keep earth wild and meet the Aichi biodiversity protection targets! #map http://t.co/JShw1ya6	15:20:06	Oct 23	2012	0	0	1	0	1	0	1	0	1
+276	#Infographic, #map: Where on Earth are our mineral resources? #naturalresources #mining  http://t.co/yirghe6R	15:11:12	Oct 23	2012	4	0	4	0	0	0	0	0	1
+277	RT@ProjectGeoMedia:"What can you do with Geography?"#GIS #Geospatial #Maps Ê #geographyeducation Ê #Geo Ê #Geography Ê http://t.co/Q6RkzmHv	15:00:02	Oct 23	2012	1	0	6	0	1	0	0	0	1
+278	RT @MapBox: We just launched the MapBox OSM Dev blog where we'll be regularly updating on our @knightfdn funded #openstreetmap work http ...	14:51:42	Oct 23	2012	19	0	1	0	1	0	2	0	0
+279	RT @EUEnvironment: Read our follow-up to the #NEC report on limiting air #pollution. Poor air quality persists in many parts of #Europe: ...	15:58:42	Oct 18	2012	8	0	3	0	1	0	1	0	0
+280	RT@EUEnvironment:Significant cuts to air #pollution in #EU1990–2010, but knowledge lead to different conclusions: http://t.co/AG040l4J #NEC	15:58:27	Oct 18	2012	0	0	3	0	1	0	0	0	1
+281	Original #NEC air #pollution targets shows broad success,new knowlegde gives a nuanced picture http://t.co/vY0v6Rwx http://t.co/UkZqHSqI	15:57:14	Oct 18	2012	1	0	2	0	0	0	0	0	1
+282	RT @ourbluemarble: The worst everyday air pollutants -- and what they do to our bodies http://t.co/yExXsf4F	15:50:39	Oct 18	2012	2	0	0	0	1	0	1	0	1
+283	Who is your own country most friendly with? #map
+http://t.co/5kCnXitt	08:17:07	Oct 17	2012	1	0	1	0	0	0	0	0	1
+284	#WorldFoodDay.181 kg of food waste per person was generated in the EU 27 in 2006: http://t.co/7Ab4hPyO http://t.co/s6nrykg2	10:29:28	Oct 16	2012	0	0	1	0	0	0	0	0	1
+285	RT @ErikSundheim: The ESRI European User Conference in Oslo, Norway. Some of the 900 participants #EsriEUC http://t.co/qZLq3yMh	13:57:15	Oct 15	2012	5	0	1	0	1	0	1	1	0
+286	RT @Gerd_Buziek: @spangrud @eyeonearthorg ... excellent - #eyeonearth user conference in march next year in Dublin! @Esri_DE	13:51:49	Oct 15	2012	3	0	1	0	1	0	4	0	0
+287	RT @Helgeastad: De to keynotene har en ting til felles: HERMIONE-prosjektet. Bra prosjekt:) #EsriEUC	11:00:57	Oct 15	2012	1	0	1	0	1	0	1	0	0
+288	RT @StianHeid: Keynote Jacqueline McGlade, European Environmental Agency shows a very nice map based story book #EsriEUC	10:28:15	Oct 15	2012	4	0	1	0	1	0	1	0	0
+289	RT @oscarmonell: Inspirational key-note by Jacqueline McGlade, European Environmental Agency on participatory env.data. #EsriEUC @EYEonE ...	10:28:02	Oct 15	2012	5	0	1	0	1	0	2	0	0
+290	We are at #EsriEUC	09:26:00	Oct 15	2012	1	0	1	0	0	0	0	0	0
+291	RT@juanchosierrar: Why is Geo-literacy Important? | @scoopit http://t.co/VFWaUkbM #gis #geo #geinformacion #geospatial #education	08:20:48	Oct 15	2012	0	0	5	0	1	0	1	0	1
+292	Why modern #maps put everyone at the centre of the world? http://t.co/m0gWpW0M http://t.co/QoixQkSU	08:09:06	Oct 15	2012	3	0	1	0	0	0	0	0	1
+293	RT @EUEnvironment: As an #IDDR taster, here is a story of the chemical sludge #disaster in #Hungary, told through @EYEonEARTHorg maps ht ...	11:38:32	Oct 12	2012	2	0	3	0	1	0	2	0	0
+294	This video explains how satellite imagery can help saving lives through #disaster #mapping http://t.co/8HN7dqUo #gis #satelliteimagery	07:48:55	Oct 12	2012	2	2	4	0	0	0	0	0	1
+295	#GIS blog | Is the future 100% interactive, or will there always be a place for the static #map? http://t.co/zgIcTnNN via @sharethis	07:39:44	Oct 12	2012	2	0	2	0	0	0	1	0	1
+296	RT @USFWS_WNS: Very cool #citizenscience project: Bat Detective! http://t.co/u0RBdQb7 #bats	14:49:45	Oct 11	2012	2	1	2	0	1	0	1	0	1
+297	RT @EUEnvironment: You still have 4 days left to enter the #ImaginAIR photostory #competition to win one of the €500 prizes http://t.co/ ...	14:48:18	Oct 11	2012	15	0	2	0	1	0	1	0	0
+298	RT @CitizenScience: You otter participate - #citizenscience and #map with observations http://t.co/TjWmPKKV	07:59:08	Oct 10	2012	1	0	2	0	1	0	1	0	1
+299	RT @EUEnvironment: What do you think of #EEA products and services? Please help us improve. Take our #evaluation survey (5-10 min) http: ...	11:12:26	Oct 09	2012	4	0	2	0	1	0	1	0	0
+300	RT @NeelieKroesEU: Well done Denmark, unlocking treasure trove of basic data. Fantastic. http://t.co/DNnrbnZA #opendata	09:04:25	Oct 09	2012	0	0	1	0	1	0	1	0	1
+301	RT @nordpil: Vintage #french map of #Europe with major roads and ferry routes. I love how the ships break the m http://t.co/fqbAAnbG	08:55:04	Oct 09	2012	0	0	2	0	1	0	1	0	1
+302	RT @gary_hayden:Great blog post on how to use #Esri #Maps for Office in #Excel http://t.co/PNuDVwfv @gisincorporated #GIS via @RebelGeo	08:52:14	Oct 09	2012	2	0	4	0	1	0	3	0	1
+303	RT @soil_water_man: @Esri Social Media Web Maps, great fun! http://t.co/JCH7MaRD Hashtags on a map. Sharing is everything	13:05:25	Oct 08	2012	1	0	0	0	1	0	2	0	1
+304	New #EyeonEarth #map based on article in #EEA Signals 2011 report shows pollution from Hungarian sludge flood http://t.co/PkKYVmQl	12:47:50	Oct 08	2012	0	0	3	0	0	0	0	0	1
+305	We love Sharing	09:15:18	Oct 04	2012	0	0	0	0	0	0	0	0	0
+306	#Storymap from #Esri: TopTen most damaging U.S. hurricanes of all time:http://t.co/Oe9MkGnf
+
+ http://t.co/LsexwoQl	07:41:04	Oct 04	2012	0	0	2	0	0	0	0	0	1
+307	RT @Citizensort: Great intro on what is #citizenscience and who can be involved? http://t.co/v5U5M687	07:24:30	Oct 04	2012	2	1	1	0	1	0	1	0	1
+308	RT @ldolder: Esri #Maps in MS Office, enables your to make GIS. http://t.co/Bns7Comb via @sharethis	07:12:18	Oct 04	2012	0	0	1	0	1	0	2	0	1
+309	RT@PXDigitalGov:Interesting report on the potential of mapping software to empower consumers http://t.co/L25kIxlT #opendata #maps	12:50:19	Oct 03	2012	0	0	2	0	1	0	0	0	1
+310	RT@EUEnvironment: 6 days left, enter #ImaginAIR photo story competition.Extra chance for youth prize if you're18-24 http://t.co/Bn3Wcp ...	06:03:19	Oct 03	2012	0	0	1	0	1	0	0	0	0
+311	RT@atelletxea:#Natura2000 Protected Areas Barometer published on #EyeOnEarth http://t.co/rf6ClWX0	05:57:40	Oct 03	2012	0	0	2	0	1	0	0	0	1
+312	Cool #infographic: How long until it's gone? @PlasticGarbageProject.org: http://t.co/jZnhsWNz http://t.co/CESKkSht	12:14:17	Oct 02	2012	0	0	1	0	0	0	1	0	1
+313	Interesting crowdsourcing,could look great in #EyeonEarth RT@rmounce:chart deforestion in the #Amazon!http://t.co/sfW1oFWy #forests #map	08:17:11	Oct 02	2012	0	0	4	0	0	0	0	0	1
+314	RT @guardianeco: Satellite eye on Earth: September 2012 – in pictures http://t.co/OTBWHdtJ	08:13:13	Oct 02	2012	0	0	0	0	1	0	1	0	1
+315	RT @greggiuliani: Interesting vision from #EEA: #EyeOnEarth should be the #YouTube for maps.	08:10:28	Oct 02	2012	1	0	3	0	1	0	1	0	0
+316	#Didyouknow that Europe is the main destination for tourists from around the world?  http://t.co/RG7MDkAP	11:25:48	Oct 01	2012	1	1	1	0	0	0	0	0	1
+317	Why #OpenData is all about Apps, and why it shouldn't be! http://t.co/pHjEHdXm via @wordpressdotcom	06:43:43	Oct 01	2012	1	0	1	0	0	0	1	0	1
+318	RT @NCCARFian: Climate change is expected to increase the frequency and intensity of river floods and extreme temperature events... http ...	06:37:47	Oct 01	2012	2	0	0	0	1	0	1	0	0
+319	RT @CanGeoEdu: @EYEonEarthorg Great #maps from  content providers such as Afghan #Geodesy &amp; #Cartography Office. http://t.co/1k7PgjQ ...	13:20:03	Sep 28	2012	2	0	3	0	1	0	2	0	0
+320	RT@RDQ_geography: Good read: Why #Geography and #Geospatial #Knowledge Matter. http://t.co/A3js1WVi	08:23:47	Sep 28	2012	0	0	3	0	1	0	0	0	1
+321	RT @CanGeoEdu:NASA | #Arctic Cyclone Breaks Up Sea Ice #video: http://t.co/Duielap7  via @youtube  #geographyteacher #geoint #geospatial	08:21:56	Sep 28	2012	0	0	5	0	1	0	2	0	1
+322	#Arctic Sea #Ice: What, Why and What Next? http://t.co/WA1AJL3Q via @sciam	06:23:44	Sep 27	2012	0	0	2	0	0	0	1	0	1
+323	RT@hfairweather:interactive #map of the melting of the #Arctic sea #ice: http://t.co/JEY6TmN0	05:47:53	Sep 27	2012	3	0	3	0	1	0	0	0	1
+324	AirWatch in #EyeonEarth: near real time #map of #airquality in Europe http://t.co/VdB6Rx8N	06:57:44	Sep 26	2012	4	1	3	0	0	0	0	0	1
+325	#Arctic #ice: Now you don’t | The Economist http://t.co/XQJW1UJd	06:58:54	Sep 25	2012	0	0	2	0	0	0	0	0	1
+326	#Arctic Sea #Ice Levels Hit Record Low, Scientists Say We're 'Running Out Of Time' http://t.co/Q3KrLhNp via @HuffPostGreen	06:58:06	Sep 25	2012	0	0	2	0	0	0	1	0	1
+327	Dwindling #Arctic #Ice Signals a Clear Need for Change  from @NRDC's blog:http://t.co/utK3Q78a	06:57:17	Sep 25	2012	0	0	2	0	0	0	1	0	1
+328	Melting #Arctic #Ice Cap At Record Low  http://t.co/NEseO5KU	06:56:44	Sep 25	2012	0	0	2	0	0	0	0	0	1
+329	Great video:"This is not cool" about #Arctic Sea #Ice 2012 (Yale) http://t.co/eJHfEFrJ via @HLavoix	06:55:54	Sep 25	2012	0	0	2	0	0	0	1	0	1
+330	RT@Gazymodo:Tiens on parle de nous sur la #premiere #agence #europ.de l'envi. , rapport #air.Voir aussi #airwatch sur @EYEonEARTHorg #matin1	06:25:11	Sep 25	2012	0	0	6	0	1	0	1	0	0
+331	RT @EUEnvironment: #Competition ImaginAIR is now open! Your story of #air could feature in a new @EUEnvironment publication http://t.co/ ...	13:27:08	Sep 24	2012	6	0	2	0	1	0	2	0	0
+332	RT@natmaps1:#Map:Be patient with NASA service.Because they are so useful there're many connections to their WMS.http://t.co/Ljv5Huqc #gis	09:41:49	Sep 24	2012	0	0	2	0	1	0	0	0	1
+333	Easy and customizable #maps with TileMill by MapBox http://t.co/iDqhvlM3 via @flowingdata	08:48:49	Sep 24	2012	1	0	1	0	0	0	1	0	1
+334	RT @FrankBergeron: How Apple lost its way with #maps http://t.co/50R9JGc9 (HuffingtonPost) #GIS #Geolocation #Mapping	08:45:04	Sep 24	2012	0	0	4	0	1	0	1	0	1
+335	RT @EsriStoryMaps: More and longer heat waves are in store for European cities, according to EEA and Eye On Earth: http://t.co/Ml7JjAjE	10:52:42	Sep 21	2012	2	0	0	0	1	0	1	0	1
+336	RT @SPIRAL_project: Eye on Earth http://t.co/NsZqvpVH and BISE - Biodiversity Information System for Europe - http://t.co/P3oLHCek featu ...	09:54:03	Sep 21	2012	2	0	0	0	1	0	1	0	1
+337	First #EyeOnEarth User #Conference in Dublin: 4-6 march 2013. Book the dates in your calendar! http://t.co/TM1qGPkD	12:16:46	Sep 18	2012	0	0	2	0	0	0	0	0	1
+338	RT @HakimAbdi: the Ozone Hole Before and After the Montreal Protocol http://t.co/Z7tmApYM	09:42:42	Sep 18	2012	0	0	0	0	1	0	1	0	1
+339	RT@karsenis:Combating invasive alien species:one of 6 key objectives of the EU 2020 #BiodiversityStrategy http://t.co/2IRxQWu7	08:19:17	Sep 17	2012	0	0	1	0	1	0	0	0	1
+340	Cool bike add :) enjoy European #mobilityweek http://t.co/NTqeAITd	08:05:48	Sep 17	2012	1	0	1	0	0	0	0	0	1
+341	#Mobility Week: 16-22 September. Tell us what is happening in your city: http://t.co/seEwY48W @mobilityweek	08:03:53	Sep 17	2012	0	0	1	0	0	0	1	0	1
+342	RT @EsriPetroleum: @EYEonEARTHorg map, apps, &amp; information - Sharing is Everything! http://t.co/HzyijT20 @EUEnvironment	07:49:14	Sep 17	2012	2	0	0	0	1	0	3	0	1
+343	Is your #city interested in fighting climate change? interactive #map in #eyeonearth: http://t.co/GAhViwls http://t.co/wfqvTjIN	07:02:02	Sep 14	2012	3	0	3	0	0	0	0	0	1
+344	RT @UNW_WWD: Do YOU have pictures related to WATER COOPERATION?!? Share them with us in... http://t.co/4nYyF8BM	06:54:21	Sep 14	2012	1	0	0	0	1	0	1	0	1
+345	22 September is a world #Car-free Day.Do you think you can go one day w/out your car? Start planning now! http://t.co/EHFM1Vr9	06:51:45	Sep 14	2012	1	0	1	0	0	0	0	0	1
+346	RT @sustrans: Here's the #map from our #lockedout report showing transport poverty in England. Are you affected? http://t.co/5yyC8lNB	14:10:11	Sep 13	2012	1	0	2	0	1	0	1	1	0
+347	RT @rvchapman: RT @tedmackinnon: FREE Book - Cartography - A Tool for Spatial Analysis http://t.co/vaDR59vH #maps #gis	14:06:37	Sep 13	2012	2	0	2	0	1	0	2	0	1
+348	#Oceans are important as they cover more than 70% of our planet.  http://t.co/N8yJMZ5Y	14:05:35	Sep 13	2012	1	0	1	0	0	0	0	0	1
+349	RT @shoshe: Eye on Earth Measures Heat Wave Risk in Europe http://t.co/Lw3bMzd2 #EyeOnEarth #Environment #map	15:33:20	Sep 11	2012	0	0	3	0	1	0	1	0	1
+350	Cool #map.The xx's new album 'Coexist'. #coexist  http://t.co/3w1I8ayv	15:25:36	Sep 11	2012	0	0	2	0	0	0	0	0	1
+351	#mindmapping - this infographic could help to #map or completely #blow your mind http://t.co/h9Not2We	14:15:07	Sep 10	2012	2	0	3	0	0	0	0	0	1
+352	What's GIS? educational video from #esri: http://t.co/k8CZdosa #gis #maps	14:09:59	Sep 10	2012	0	0	3	0	0	0	0	0	1
+353	RT @EsriEnvironment: How to create your Eye on Earth web maps using #ArcGIS Online http://t.co/KOj4LOG5 @Esri @EYEonEARTHorg #environmen ...	08:27:17	Sep 10	2012	3	0	2	0	1	0	3	0	1
+354	“@Esri_France: La carte de la semaine  dcouvrir sur #arcOrama http://t.co/czAHlGJu http://t.co/DsTulQld” #eyeonearth	08:05:12	Sep 09	2012	0	0	2	0	0	0	0	1	1
+355	“@EsriEnvironment: How to create your Eye on Earth web maps using #ArcGIS Online http://t.co/lLh5ZVyb @Esri @EYEonEARTHorg #environment #EoE	06:14:31	Sep 08	2012	2	1	3	0	0	0	2	0	1
+356	What's Happening to #Biodiversity? We are losing it. Full size #Infographic http://t.co/VKaJizoc RT@karsenis http://t.co/4qc7ZNrG	12:29:28	Sep 07	2012	1	0	2	0	0	0	0	0	1
+357	RT @Ryan_Random: Is #GIS bad for your health? http://t.co/6uSCHMMq	12:25:11	Sep 07	2012	0	0	1	0	1	0	1	0	1
+358	How much do you know about #bees? Quiz http://t.co/72rJAY3C Video:http://t.co/ZXi3n5b3 http://t.co/tLgpc4Ot	12:23:33	Sep 07	2012	0	0	1	0	0	0	0	0	1
+359	RT @mappingmashups:Data/Spaces: an interesting call for academic &amp; creative works about #bigdata: http://t.co/NlglwwGr Deadline Dec 14	09:53:13	Sep 07	2012	0	0	1	0	1	0	1	0	1
+360	Satellite eye on Earth: August 2012 in pictures http://t.co/Th7u7rUT	21:40:19	Sep 06	2012	0	0	0	0	0	0	0	0	1
+361	RT @Bennuworld: Eye On Earth Connects the Dots So People Can See Environmental Issues via @treehugger http://t.co/VPSEaPlL	21:36:41	Sep 06	2012	4	0	0	0	1	0	2	0	1
+362	RT @MarinReturns: #EyeOnEarth watching the earth http://t.co/x40ps37Q	21:35:22	Sep 06	2012	1	0	1	0	1	0	1	0	1
+363	RT @audreygarric: Cartographie des risques climatiques menaant les villes europennes http://t.co/Rn790soi	21:34:59	Sep 06	2012	8	0	0	0	1	0	1	0	1
+364	RT @ArnaudADAM: Eye on Earth - Air/Water/Nature/Noise overview http://t.co/Po4FcA1M @eyeonearthorg	21:34:45	Sep 06	2012	1	0	0	0	1	0	2	0	1
+365	RT @bingobaa: http://t.co/nzrmX7Ux  Maps Europe trends.	21:34:31	Sep 06	2012	1	0	0	0	1	0	1	0	1
+366	RT @Earthducation: There is some interesting map-based environmental datavis at EyeonEarth http://t.co/jNue97Hp	21:34:23	Sep 06	2012	1	0	0	0	1	0	1	0	1
+367	RT @ClubGreenNL: Al eens een kijkje genomen op #Eye on #Earth? Geweldige interactieve #NASA site met een schat aan #milieuinformatie: ht ...	21:34:19	Sep 06	2012	3	0	4	0	1	0	1	0	0
+368	@energysaferu ??????? ?? ??????? ?????? http://t.co/we5Tw3Ba	21:32:13	Sep 06	2012	0	0	0	1	0	0	1	0	1
+369	RT @treehuggeruk: @EyeOnEarthorg Connects the Dots So People Can See Environmental Issues : TreeHugger http://t.co/zBjGsX0m via @TreeHugger	06:21:43	Sep 06	2012	2	0	0	0	1	0	3	0	1
+370	RT @tommy_whitmore: Eye On Earth Connects the Dots So People Can See Environmental Issues (Tree Hugger Site) http://t.co/iNslWQ82	06:20:21	Sep 06	2012	2	0	0	0	1	0	1	0	1
+371	Take a look at the potential threats to #cities from coastal #flooding. See #map here: http://t.co/I38pJX34 http://t.co/CxuCSbrL	21:56:29	Sep 05	2012	1	0	3	0	0	0	0	0	1
+372	#Heatwave risk of European #cities #map in @EyeonEarth has been viewed 106 000 times during the part 24 hours:http://t.co/T2eMzttT	08:16:15	Sep 05	2012	6	0	3	0	0	0	1	0	1
+373	RT @GISDoctor:Bad maps,bad data,or bad data interpretation? http://t.co/JswSgsTW #GIS #Spatial #Maps	07:38:09	Sep 05	2012	0	0	3	0	1	0	1	0	1
+374	How vulnerable is your city to #climateimpacts? We have interactive maps for 500 European #cities http://t.co/flYMtwPg http://t.co/DOKGyswD	12:26:24	Sep 04	2012	5	0	2	0	0	0	0	0	1
+375	New #maps in #EyeOnEarth from @EUEnvironment report: #urban adaptation to #climatechange. http://t.co/XGa3P0Jz	12:23:29	Sep 04	2012	2	0	4	0	0	0	1	0	1
+376	RT @Oxfam: That's a lot of red: #mapping the US #drought, by federal &amp; academic scientists http://t.co/XRiQLP90 @DroughtCenter @usda @NOAA	14:41:35	Sep 03	2012	1	0	2	0	1	0	4	0	1
+377	RT @GoSkyRide: Thinking about riding your bike to work? Check out tips on how to get started: http://t.co/9WzLluJ6 #cycling	14:40:15	Sep 03	2012	0	0	1	0	1	0	1	0	1
+378	RT @EUEnvironment: The value of #insect pollinators’ aid to #agriculture is up to $190 billion per year. #Bees  also help #cities buzz h ...	13:59:34	Sep 03	2012	13	0	4	0	1	0	1	0	0
+379	RT @deepseadawn: Esri and Open Source Software: More Please http://t.co/Vzfq9F7P #gis	05:43:19	Sep 02	2012	4	0	1	0	1	0	1	0	1
+380	#map with live #hurricane data in #EyeonEarth:http://t.co/8HFvh4pk	10:06:08	Aug 30	2012	0	0	3	0	0	0	0	0	1
+381	Animation of Hurricane Isaac http://t.co/QlM4KWDN	05:56:06	Aug 30	2012	0	0	0	0	0	0	0	0	1
+382	RT@EUEnvironment:#photocompetition #ImaginAIR on #Europe's air w/focus on #humanhealth; #nature #cities and #technology.http://t.co/gbptTK8j	14:23:47	Aug 29	2012	0	0	7	0	1	0	0	0	1
+383	Taste the Waste of Water! A powerfull message from #wwweek: http://t.co/ZvuaGSL0 http://t.co/8RYHHnub	13:54:50	Aug 29	2012	1	1	1	0	0	0	0	0	1
+384	RT @ExcelMapping: A Map of the World In Lego Bricks: http://t.co/4SULTw1P	08:01:11	Aug 29	2012	0	0	0	0	1	0	1	0	1
+385	RT @onedrop: How about going vegetarian? Producing meat requires up to 20 times more water than cereals. #wwweek  http://t.co/85JWizHf	07:07:36	Aug 29	2012	3	0	1	0	1	0	1	0	1
+386	RT @gary_hayden: Creating Custom Web Mapping Applications without Programming http://t.co/Rxk253ZB	07:01:49	Aug 29	2012	0	0	0	0	1	0	1	0	1
+387	RT @albertchao: #airqualityegg prototype cracked open http://t.co/LYWsTtOA	12:17:11	Aug 28	2012	0	0	1	0	1	0	1	0	1
+388	RT @Water_Value: Stockholm Water Week Focuses On Waste, Water Efficiencies: http://t.co/xXU0sY1t via @BloombergNews #wwweek	08:51:16	Aug 28	2012	2	0	1	0	1	0	2	0	1
+389	RT @EUEnvironment: #WWWeek - and if water could speak? http://t.co/HLY2CWnk	08:50:41	Aug 28	2012	1	0	1	0	1	0	1	0	1
+390	RT@Aleix_Anducas: Mapping every hurricane and tropical storm since 1851. http://t.co/5YcEbql1 #map #maps #gis #hurricane #storm	06:45:03	Aug 28	2012	0	0	5	0	1	0	0	0	1
+391	Good read: We Waste 23 Pounds of Food Per Month but We Don’t Have To http://t.co/1d3BU39e	06:32:42	Aug 28	2012	1	0	0	0	0	0	0	0	1
+392	RT @ExcelMapping: Making #Maps with Excel http://t.co/2aziWEvM	09:11:27	Aug 23	2012	1	0	1	0	1	0	1	0	1
+393	RT @DanielMelbye: Like #infographics ? you may need some of these http://t.co/wAz03bIL	09:10:14	Aug 23	2012	1	0	1	0	1	0	1	0	1
+394	RT @EUEnvironment: We will soon announce a new photo competition on #air. But first help us come up with a name http://t.co/G0jtvIMG	07:59:19	Aug 23	2012	0	0	1	0	1	0	1	0	1
+395	RT @MarinReturns: #EyeOnEarth watching the earth http://t.co/x40ps37Q	07:57:50	Aug 23	2012	1	0	1	0	1	0	1	0	1
+396	RT @geospatialnews: Geography of Ancestry: What's your geographic ancestral origin? nice #maps http://t.co/i9nl4eoO #gis #geospatial	07:57:08	Aug 23	2012	0	0	3	0	1	0	1	0	1
+397	This year’s World Water Week will be held August 26–31 in Stockholm. Learn more at http://t.co/iS1xSNNd #wwweek	07:50:22	Aug 22	2012	2	0	1	0	0	0	0	0	1
+398	How to reduce #water #footprint: http://t.co/p2U8Q5Oj via @GOODtrasparency  http://t.co/1Td6Ehzs	06:35:41	Aug 22	2012	0	0	2	0	0	0	1	0	1
+399	Sensors &amp; Systems - Microsoft Continues Investment in #EyeonEarth.org http://t.co/fnU5Ba68 via @sharethis	11:52:24	Aug 21	2012	3	1	1	0	0	0	1	0	1
+400	You'll never look at a #plasticbag the same way again! http://t.co/Ya6RxxWa #pollution #ocean #plastic	11:45:30	Aug 21	2012	2	0	4	0	0	0	0	0	1
+401	RT @poimapper: The four step guide to #mobile #datacollection  http://t.co/jqUvL8Vu	11:36:28	Aug 21	2012	1	0	2	0	1	0	1	0	1
+402	RT @NRDC: Reduce Global Warming Emissions: Reduce motor vehicle idling http://t.co/1r3aS4GM #simplesteps	11:25:24	Aug 21	2012	0	0	1	0	1	0	1	0	1
+403	How Caffeine is Infiltrating the Pacific:http://t.co/GSfdl7Z5 @PacificCouncil #waterquality #oceans #pollution http://t.co/F2g7buI6	10:31:11	Aug 17	2012	1	1	3	0	0	0	1	0	1
+404	Instagram 3.0 Adds Photo #Maps http://t.co/imwKor0N via @sharethis	10:20:57	Aug 17	2012	0	0	1	0	0	0	1	0	1
+405	A Handy Guide to #GlobalWarming #Diseases http://t.co/jfT4mnn9	11:05:59	Aug 16	2012	1	1	2	0	0	0	0	0	1
+406	Reinventing the #toilet: http://t.co/jv7goalX via @gatesfoundation #water #waterquality	10:51:42	Aug 16	2012	0	0	3	0	0	0	1	0	1
+407	@UMNIonE or check out our website: http://t.co/Bd9vyRGh	10:26:21	Aug 16	2012	0	0	0	1	0	0	1	0	1
+408	RT @Water: Take our annual survey and tell us how we can help more people get safe water. Visit the survey at http://t.co/9m7OMK1g	12:34:43	Aug 15	2012	14	0	0	0	1	0	1	0	1
+409	RT @worldresources: Reading - #Climate change: Countries that may be hit hardest (@HuffPostGreen @ScienceHsu) http://t.co/M19JbR2C	11:25:01	Aug 15	2012	1	1	1	0	1	0	2	0	1
+410	Urban and Industrial Metabolisms: working on your passions, and not just to pay the bills, Eva Gladek http://t.co/CSE99cxH	08:12:57	Aug 15	2012	2	0	0	0	0	0	0	0	1
+411	RT @Dragons8mycat: The Daily Spatial is out! http://t.co/wkWD6axn ? Top stories today via @GPSGIS_Eric @EYEonEARTHorg	11:04:10	Aug 14	2012	0	0	0	0	1	0	3	0	1
+412	RT @gisday: Storytelling with #maps #gis poster! http://t.co/5ZL2nRvm	07:52:44	Aug 14	2012	0	0	2	0	1	0	1	0	1
+413	RT @KansasGIS: So if Geographic Information Systems = #GIS, does #Esri Maps for Office = #EMO?	07:51:53	Aug 14	2012	0	0	3	0	1	0	1	0	0
+414	RT @Jiarosex: Free #geomatics #gis data that you can use to start your projects with. http://t.co/5KBUPYhq #cartography #maps	07:51:17	Aug 14	2012	0	0	4	0	1	0	1	0	1
+415	Peer acceptance for Special Achievement in #GIS. http://t.co/JVsn52Xf	11:53:59	Aug 13	2012	1	0	1	0	0	0	0	0	1
+416	RT @karsenis: Sea ice in the #Arctic is disappearing at a far greater rate than previously expected http://t.co/abk7NR91 #climatechange	10:45:34	Aug 13	2012	1	0	2	0	1	0	1	0	1
+417	RT @ExcelMapping: ‘Information is Beautiful’ shortlist illustrates data visualization trends http://t.co/IluTwi0L	08:35:52	Aug 13	2012	2	0	0	0	1	0	1	0	1
+418	European #Earth monitoring competition: http://t.co/6VJlxE6d #GMES Masters	07:57:40	Aug 13	2012	0	0	2	0	0	0	0	0	1
+419	RT@geospatialnews:nice cartographic tips for ArcGIS RT @josephkerski: Making Beautiful Maps Esri PDF: 
+http://t.co/q6CRp9XO #esri #gis"	07:48:55	Aug 13	2012	1	0	2	0	1	0	1	0	1
+420	RT@EUEnvironment:High levels of ground-level #ozone can harm your health. Stay safe this summer http://t.co/t4M8iw8i	07:48:10	Aug 13	2012	1	0	1	0	1	0	0	0	1
+421	RT @UNDP: Did u know that 1,3 billion tons of #water is lost or wasted every year? http://t.co/VUstnnZ2 #wwweek v @IFADnews	10:06:05	Aug 10	2012	30	0	2	0	1	0	2	0	1
+422	The #Arctic ice melts.See these amazing animated graphs:
+http://t.co/TET9oJzD #datavisualisation #climatechange	10:05:24	Aug 10	2012	0	0	3	0	0	0	0	0	1
+423	RT @ExcelMapping: Location Intelligence Applications For Everyone - Animated Maps http://t.co/XCeQoM1L	13:00:21	Aug 09	2012	1	0	0	0	1	0	1	0	1
+424	RT @natmaps1: #map European solar energy production vs. potencial solar radiation. http://t.co/JHZsMJan #maps #gis #energy #environment	12:40:15	Aug 09	2012	2	0	5	0	1	0	1	0	1
+425	Would you cycle to work on a bike made of recycled cardboard? http://t.co/U71oMiCb	09:43:25	Aug 09	2012	0	0	0	0	0	0	0	0	1
+426	#map of Europe's hot spots for one of the most harmful air pollutants #PM2.5 @EUEnvironment #airquality http://t.co/88LjNqSt	08:56:43	Aug 09	2012	7	2	3	0	0	0	1	0	1
+427	RT @EUEnvironment: What do the European heat wave of 2003 and the Russian heat wave of 2010 have in common? Anthropogenic #climatechange ...	12:47:58	Aug 08	2012	11	0	1	0	1	0	1	0	0
+428	RT @sustaincities: there are thousands of abandoned warehouses. Can this conversion into an urban farm serve as a... http://t.co/8tqmdW1k	12:41:21	Aug 08	2012	1	0	0	0	1	0	1	0	1
+429	#Urban matters: an #infographics comparing 27 city ring roads around the world. Beautiful, isn't it? http://t.co/PONKAAIs	12:29:13	Aug 08	2012	2	0	2	0	0	0	0	0	1
+430	Don't know how to use #EyeOnEarth? Here's a walk through the portal http://t.co/1zuyz3iK	11:11:37	Aug 08	2012	2	0	1	0	0	0	0	0	1
+431	RT @Miguel_Morgado: European Marine Fish Capture Production http://t.co/msoOrFA8	12:39:29	Aug 07	2012	1	0	0	0	1	0	1	0	1
+432	#didyouknow all these facts about #PM2.5? interesting #infographics  http://t.co/cXihOoGt	12:07:12	Aug 07	2012	2	0	3	0	0	0	0	0	1
+433	@andrewxhill Eye On Earth does not have MDB files nor we have shapefiles.Do you mean the EEA data section?	11:26:25	Aug 07	2012	0	0	0	1	0	0	1	0	0
+434	Who doesn't like satellite images: Satellite eye on Earth: July 2012 - in pictures http://t.co/Ue50k3yS via @guardian	08:39:05	Aug 07	2012	7	2	0	0	0	0	1	0	1
+435	RT @Esri: Which of the maps in Volume 27 of the #Esri Map Book are your favorite? http://t.co/AvHJyUqW	15:28:06	Aug 06	2012	3	0	1	0	1	0	1	0	1
+436	RT @EUEnvironment: #Didyouknow the role of dead #trees in #forests was first recognised in #Poland in the 1970s? http://t.co/VevpAYQp ht ...	13:14:32	Aug 03	2012	3	0	4	0	1	0	1	0	1
+437	RT @karsenis: EEA Signals 2012 – Building the future we want http://t.co/v22qKZoa #environment #greeneconomy #sustainability #rioplus20	10:33:29	Aug 03	2012	2	0	4	0	1	0	1	0	1
+438	180 kg of #food per person is wasted every year in the EU alone - read Signals2012 by @EUEnvironment @Oxfam http://t.co/h8dfN7yL	10:27:52	Aug 03	2012	2	0	1	0	0	0	2	0	1
+439	A bit old but very good: #Mapping Global #Food Spending #Infographic http://t.co/cVQt9V3v	10:04:47	Aug 03	2012	1	0	3	0	0	0	0	0	1
+440	@CANVIZ Develops Award-Winning #SharePoint Site for #EyeOnEarth http://t.co/cnX8yzaA	09:54:44	Aug 03	2012	0	0	2	1	0	0	1	0	1
+441	RT @kellycopson: Mit #EyeonEarth immer die Wasserqualitt im Blick haben http://t.co/3tclwRyZ Cloud Computing	09:53:41	Aug 03	2012	0	1	1	0	1	0	1	0	1
+442	@gri_gun Thank you for trying out #NoiseWatch App. We are currently working on solving the problems with the #Android app.	09:52:20	Aug 03	2012	1	0	2	0	0	0	1	0	0
+443	Waiting for today's #Olympic events to begin? Take a tour http://t.co/2XeqgG0m #map #ESRI http://t.co/OpnR9kR4	08:57:36	Aug 02	2012	0	0	3	0	0	0	0	0	1
+444	RT @ESRIJapan: ?????????????????? #EyeOnEarth ???+20???? http://t.co/f8L7h5wU#Esri	08:02:12	Aug 02	2012	0	0	1	0	1	0	1	0	1
+445	A #map for every story: http://t.co/VZ40Hg3e  via @youtube #GIS #esri	07:56:43	Aug 02	2012	2	0	3	0	0	0	1	0	1
+446	RT @Critchlow_Tech: An interesting post on the public in the US use and design of web #maps http://t.co/5uTfX9q0 #GIS	07:50:49	Aug 02	2012	1	0	2	0	1	0	1	0	1
+447	RT @karsenis: Bathing #water quality for #Europe. Find your swimming spot and check official measurements http://t.co/v4VhFB39 #map #eye ...	13:46:35	Aug 01	2012	3	0	4	0	1	0	1	0	1
+448	Diseases caused by poor #airquality. Interesting #infographic by http://t.co/1ZJj7bTr http://t.co/ag2OdvCu	13:45:33	Aug 01	2012	2	0	2	0	0	0	0	0	1
+449	How to navigate through #EyeOnEarth #Water Watch map: http://t.co/jEdVJBw6	11:42:28	Jul 31	2012	3	0	2	0	0	0	0	0	1
+450	@SnifferScotland Completely agree! but we all need reminders in order to stay focused on the right matters.	09:28:10	Jul 31	2012	0	1	0	1	0	0	1	0	0
+451	Would you agree with this #ClimateChange debate #infographics? http://t.co/LRzYyn7Q	08:31:42	Jul 31	2012	3	0	2	0	0	0	0	0	1
+452	Would you agree? We’re All Climate-Change Idiots http://t.co/qYpUlla3	08:13:51	Jul 31	2012	0	0	0	0	0	0	0	0	1
+453	RT @EUEnvironment: Eleven Member States exceed air emissions limits under LRTAP Convention http://t.co/55A2PjR5	07:57:55	Jul 31	2012	2	0	0	0	1	0	1	0	1
+454	RT @ICLEI_Europe: Copenhagen's "Bicycle Library" allows cyclists to borrow a variety of bikes for days at a time! http://t.co/65wmbNk8	07:56:46	Jul 31	2012	2	0	0	0	1	0	1	0	1
+455	RT @snailrunner1: Eye On Earth: http://t.co/2PyJVwhc	08:22:44	Jul 30	2012	0	0	0	0	1	0	1	0	1
+456	RT @WFP: We just passed the 300,000 followers mark on Twitter. Thanks to everyone who helped us get here. On to 1 million!	09:33:42	Jul 27	2012	25	0	0	0	1	0	1	0	0
+457	RT @EUEnvironment: Check out this unprecedented #Greenland ice sheet melt recorded by NASA http://t.co/aVFctNpP #Arctic http://t.co/1OfS030H	08:51:08	Jul 27	2012	0	0	2	0	1	0	1	0	1
+458	RT @EUEnvironment:Climate, management practices &amp; the types of crops grown can affect #agriculture, as illustrated here http://t.co/smHE8EZq	08:50:04	Jul 27	2012	1	0	1	0	1	0	1	0	1
+459	@repa_m thanks for virusing	08:43:33	Jul 27	2012	0	0	0	1	0	0	1	0	0
+460	#EsriUC 
+Many visitors also this morning.. All sharing the same comment on @EYEonEARTHorg:"this is just great"	19:34:54	Jul 25	2012	0	0	1	0	0	0	1	0	0
+461	how much of the world could be #under water in less than 100 years?  http://t.co/VFbKCKKc	11:39:42	Jul 25	2012	15	1	1	0	0	0	0	0	1
+462	RT @mikethechang: If there's anything #esriUC reminds me, it's the moral neutrality of technology. "w/ great power comes great responsib ...	10:07:44	Jul 25	2012	1	0	1	0	1	0	1	0	0
+463	RT @poimapper: RT @Esri: The world is at #EsriUC. More than 15,000 attendees from 131 countries here this year.	10:07:19	Jul 25	2012	0	0	1	0	1	0	2	0	0
+464	RT @shannonhwhite:Organizations sharing information globally (#UNEP, US Govt, #EyeonEarthNetwork, States, Cities, The World Bank) #esriuc	10:05:53	Jul 25	2012	0	0	3	0	1	0	1	0	0
+465	RT @TsarSam: #GIS #maps #EsriUC #SouthPark ? http://t.co/0xklLvMy	10:03:17	Jul 25	2012	1	0	4	0	1	0	1	0	1
+466	Honolulu Mayor Uses Geodesign for Rail Plan http://t.co/SnBLeaAT #maps #Esri	07:29:08	Jul 25	2012	2	0	2	0	0	0	0	0	1
+467	#EsriUC 
+Great first day!! Many people passed by to ask about EoE Network. Hope to see many of you also tomorrow!!	01:05:18	Jul 25	2012	1	0	1	0	0	0	0	0	0
+468	#EsriUC 10 minutes left to the exhibition opening!! Come and visit us http://t.co/RJSCk8Jw	15:53:05	Jul 24	2012	1	0	1	0	0	0	0	1	0
+469	RT @nordpil: World age structure, 2005 and projected for 2025, from Perry-Castaeda Library Map Collection http://t.co/ScpK0QFK	13:31:22	Jul 24	2012	0	0	0	0	1	0	1	0	1
+470	#Esri UC Plenary Session Highlights http://t.co/Lw32c9cq	10:46:57	Jul 24	2012	0	0	1	0	0	0	0	0	1
+471	#map Gallery at #EsriUC http://t.co/09AFjR4g	07:39:15	Jul 24	2012	0	0	2	0	0	0	0	1	0
+472	RT @danGIS2012: #EsriUC Map Gallery after dark. So many maps, so many maps. http://t.co/Xw2Tzb72	07:32:37	Jul 24	2012	0	0	1	0	1	0	1	1	0
+473	RT @LenOlyott1: RT @barbareeduke: Who knew that Jack Dangermond strolls the #esriuc map gallery amongst the people! http://t.co/mzjLopAL	07:30:52	Jul 24	2012	0	0	1	0	1	0	2	1	0
+474	RT @gri_gun: RT @EsriUC: Missed the #esriuc plenary – first video is available for viewing http://t.co/lDMFn0h4	07:29:18	Jul 24	2012	0	0	1	0	1	0	2	0	1
+475	RT @jsteffenson: Jack acknowledges @EYEonEARTHorg and Jackie McGlade at #esriuc #SES	07:27:30	Jul 24	2012	1	0	2	0	1	0	2	0	0
+476	@Gazymodo They did mention it 4 times http://t.co/DM4h84Ja	07:23:02	Jul 24	2012	0	1	0	1	0	0	1	1	0
+477	RT @UNEP_FI: '10 Reasons Why #Sustainability/#Energy Retrofits of Commercial Buildings Will Be the Next Big Thing' http://t.co/ydfqpAoZ	07:21:36	Jul 24	2012	1	0	2	0	1	0	1	0	1
+478	RT @EsriUC: PHOTO CONTEST: Send us your fun photos from Foodcart Lunch today on the lawn. We'll pick the best &amp; give out prizes. #esriuc	18:28:54	Jul 23	2012	6	0	1	0	1	0	1	0	0
+479	11 Works of Art Made With Road Maps http://t.co/0TUdyG2M via @sharethis	18:24:52	Jul 23	2012	0	0	0	0	0	0	1	0	1
+480	RT @CdnCarto: RT: @gislio: I am told there are people who do not care about #maps and I find it hard to believe - Robert Louis Stevenson ...	18:23:54	Jul 23	2012	1	0	1	0	1	0	2	0	0
+481	RT @directionsmag: Dangermond: "Cloud GIS integrates all sorts of geospatial data; sensor nets, social media and web maps make this wide ...	18:20:49	Jul 23	2012	13	0	0	0	1	0	1	0	0
+482	@KathleenEdie @cristalens just would like to pay your attention that the newsletter is from EyeOnEarth Summit (but we own the brand name)	18:18:52	Jul 23	2012	1	0	0	1	0	0	2	0	0
+483	#EsriUC 
+Jack opening!! http://t.co/32o7GGOL	16:25:35	Jul 23	2012	0	0	1	0	0	0	0	1	0
+484	How well do you know the #map of Europe? Take a quiz: http://t.co/swl6sbry	13:38:47	Jul 20	2012	3	0	1	0	0	0	0	0	1
+485	Anthropic Cycle, Great fresh#water visualisation! http://t.co/RsTwPPpl via @visualizingorg	09:02:49	Jul 20	2012	0	0	0	0	0	0	1	0	1
+486	RT @nordpil: some has been busy planting #geocaches sw of #stockholm! http://t.co/Vh7iAJYt http://t.co/Hujes4tU	08:04:08	Jul 20	2012	1	0	2	0	1	0	1	0	1
+487	We have to support clean #air http://t.co/ugNLugHf	07:02:27	Jul 20	2012	0	0	1	0	0	0	0	0	1
+488	RT @sbxuk: Great website for infographics and creative data visualisations:  #infographics  #visualisations... http://t.co/HgM2dMi8	14:19:24	Jul 19	2012	0	0	2	0	1	0	1	0	1
+489	Great #infographics! #map of 20 port cities with highest #climate risk. Read more:http://t.co/X7pSUVPm  http://t.co/Wz60vt1x	13:15:37	Jul 19	2012	1	0	3	0	0	0	0	0	1
+490	In 2009 62% of all packaging #waste in the 27 EU coutries was recycled?#map from #EEA http://t.co/81AhJfCX	10:25:28	Jul 19	2012	8	0	3	0	0	0	0	0	1
+491	RT @jtochterman: Web Map, Intelligent Map, Story Map: What’s the Difference? http://t.co/2kkermBV #Maps #GIS	10:07:48	Jul 19	2012	0	0	2	0	1	0	1	0	1
+492	Come and meet us during #EsriUC. Stand V2930	09:26:23	Jul 19	2012	0	0	1	0	0	0	0	0	0
+493	RT @URISA: Stop by and congratulate #GISCorps on their 100th mission during the Map Gallery reception, Monday night at the #EsriUC #URISA	13:40:55	Jul 18	2012	0	0	3	0	1	0	1	0	0
+494	RT @nordpil: sort of a mind map #visualization and #infographic - the graph of ideas: http://t.co/3PjBXFg2	09:17:16	Jul 18	2012	1	0	2	0	1	0	1	0	1
+495	RT @EsriUC: Have you signed up to have your maps reviewed by the #Esri cartography team at #EsriUC? http://t.co/tJSGhu87	08:15:02	Jul 18	2012	0	0	2	0	1	0	1	0	1
+496	RT @Ryan_Random: #ESRIUC: Mr. Dangermond Answers Your Questions http://t.co/3qXvf53Q via @cageyjames	08:11:55	Jul 18	2012	0	0	1	0	1	0	2	0	1
+497	RT @govloop: How can great maps tell compelling stories? Read more here: http://t.co/4Oyhnhli @Esri #GIS	08:10:04	Jul 18	2012	0	0	1	0	1	0	2	0	1
+498	RT @ICLEI_Europe: findings of the ICLEI survey on #urban #sustainability http://t.co/PoqdGR66	08:08:08	Jul 18	2012	0	0	2	0	1	0	1	0	1
+499	RT @EUEnvironment: How much #oil does your country use in comparison to others? What about other #energy sources? http://t.co/Ca0lM8HU!	13:06:29	Jul 17	2012	1	0	2	0	1	0	1	0	1
+500	1/3 of annually produced #food worldwide becomes a #waste via @dtdOrganics http://t.co/wi8Ig82T	11:52:27	Jul 17	2012	0	0	2	0	0	0	1	1	0
+501	#Toys are #waste.Kids just want "stuff, any stuff, our stuff," read more http://t.co/vnW5zPrv http://t.co/84bIgTnI	09:50:37	Jul 17	2012	1	0	2	0	0	0	0	1	1
+502	Very powerful message! New film by #Chris Jordan http://t.co/EGC73iW4	07:39:39	Jul 17	2012	0	0	1	0	0	0	0	0	1
+503	RT @_brunorprado: All things spatial: Visualising #census data on #maps by @Geo_and_News http://t.co/f5aZP47i #geospatial #gis	06:59:39	Jul 17	2012	1	0	4	0	1	0	2	0	1
+504	a five-step plan for boosting global #food production while reducing #environmental impact #agriculture http://t.co/xemZuxKx @UMNIonE	06:56:00	Jul 17	2012	1	0	3	0	0	0	1	0	1
+505	RT @Teradata: In anticipation of next week's #EsriUC, check out this video which highlights #geospatial capabilities: http://t.co/Oj1UTZht	13:24:24	Jul 16	2012	0	0	2	0	1	0	1	0	1
+506	#UK comes no.1 in a new energy efficiency ranking of the 12 world’s major economies. http://t.co/f0V8mbPY	13:17:56	Jul 16	2012	1	0	1	0	0	0	0	0	1
+507	Getting ready for #EsriUC RT @gisuser:San Diego Story Map  A curated list of suggested places to visit http://t.co/OxUfkgm5	12:19:21	Jul 16	2012	0	0	1	0	0	0	1	0	1
+508	RT @hydrography: #twitter follow #EsriUC Keynote- Director General Inter. Union for Conservation of Nature http://t.co/MxEk9uxJ #GIS	12:18:14	Jul 16	2012	0	0	3	0	1	0	1	0	1
+509	RT @jamescucinelli: @Esri only one week left until #ESRIUC where is the iphone app?	12:17:40	Jul 16	2012	1	0	1	0	1	0	2	0	0
+510	RT @michael_d_gould: Weather  forecast for opening #EsriUC weekend  (pre-conference events) looks perfect: sunny and 74F	12:17:21	Jul 16	2012	0	0	1	0	1	0	1	0	0
+511	RT @steve_snow_ There is going to be an incredible collection of maps in the #EsriUC map gallery.  It's always a true privilege to see them.	12:16:31	Jul 16	2012	0	0	1	0	1	0	1	0	0
+512	We will be twitting from #EsriUC between 22-27 of July	12:12:26	Jul 16	2012	1	0	1	0	0	0	0	0	0
+513	interestin read - GIS in IT: http://t.co/7ktZKbBn	12:00:32	Jul 16	2012	0	1	0	0	0	0	0	0	1
+514	RT @nordpil: nice interactive map with geology RT @natmaps1: Plate tectonics http://t.co/AE8B6WVB | #maps #gis #cartography #earth	11:57:06	Jul 16	2012	2	0	4	0	1	0	2	0	1
+515	RT @NRDC: Satellite eye on Earth http://t.co/YnhiZKTa	09:53:51	Jul 16	2012	5	0	0	0	1	0	1	0	1
+516	One week is left until #EsriUC to show #EyeonEarth	09:27:08	Jul 16	2012	1	0	2	0	0	0	0	0	0
+517	RT @RTCCnewswire: What is the Petersberg Climate Dialogue and why does it matter? http://t.co/MkrxPHdi	08:18:00	Jul 16	2012	7	0	0	0	1	0	1	0	1
+518	RT@WorldBank Get the latest #environment data for 200+ economies. Great source of data for #infographics:http://t.co/RitpW1xZ	07:13:09	Jul 16	2012	2	1	2	0	1	0	0	0	1
+519	Great #film project by #ChrisJordan: http://t.co/ky0LIe8m	11:35:50	Jul 13	2012	0	0	2	0	0	0	0	0	1
+520	#Noise effects not only humans. Great #infographics by @oceanresearch http://t.co/uymc8jzO	10:17:34	Jul 13	2012	1	0	2	0	0	0	1	0	1
+521	RT @Blom_Group 40 creative remakes of the world #map:http://t.co/i0Nb4cA0	08:11:40	Jul 13	2012	0	1	1	0	1	0	1	0	1
+522	RT@NRDC The @MapsMarker is an interactive #map o the world's #marine #protectedareas - have a look: http://t.co/o9wiKGiw	08:06:14	Jul 13	2012	2	1	3	0	1	0	1	0	1
+523	@jwijmenga @EUEnvironment This one is taken from the official EEA figures, so it is trustworthy.	13:29:22	Jul 12	2012	0	0	0	1	0	0	2	0	0
+524	RT @EUEnvironment: We are still very proud of @EYEonEARTHorg featuring in the #Rioplus20 outcome document. Check us out in paragraph 274 ...	13:26:51	Jul 12	2012	5	0	1	0	1	0	2	0	0
+525	@jwijmenga @EUEnvironment You are right. This #infographics is based on the world statistics	13:12:43	Jul 12	2012	0	0	1	1	0	0	2	0	0
+526	The EU recycled 17 % of its municipal solid #waste in 1995 and 40 % in 2008. http://t.co/47dgkUrg	12:42:09	Jul 12	2012	2	0	1	0	0	0	0	0	1
+527	30% of Europe's #urban population is exposed to #ozone concentrations above the levels set by the EU #Airpollution http://t.co/B9vUnoOs	11:57:27	Jul 12	2012	3	0	3	0	0	0	0	0	1
+528	Up to 30% of Europe's urban population is exposed to ozone concentrations above the levels set by the EU. http://t.co/hF4Z5vTs	11:54:08	Jul 12	2012	0	0	0	0	0	0	0	0	1
+529	@nordpil you just need to change the basemap to a topographic one, then you have it	11:47:08	Jul 12	2012	0	0	0	1	0	0	1	0	0
+530	RT @unisdr: Don't understand it but sounds promising! RT @ssmk4u: Disaster Risk Reduction radio drama http://t.co/xhvpDJYo @usembassynep ...	11:32:42	Jul 12	2012	1	0	0	0	1	0	3	0	1
+531	We just love #water inforgraphics! Here is one more. Nice work on degreed of thirst by the OAD http://t.co/OA0c7bRa	11:28:23	Jul 12	2012	1	0	1	0	0	0	0	0	1
+532	#airpollution:over 80% of lung damaging pm in cities comes from road vehicles http://t.co/cuog8FAV	11:09:26	Jul 12	2012	8	2	1	0	0	0	0	0	1
+533	Do you know where from comes #airpollution in your home? http://t.co/6l5n6nuS	11:00:43	Jul 12	2012	2	0	1	0	0	0	0	0	1
+534	This map by @EUEnvironment shows which regions in Europe are the most #water stressed.  http://t.co/GorAtV35	10:48:23	Jul 12	2012	1	0	1	0	0	0	1	0	1
+535	Plan to spend time at the seaside this summer? Study this #infographics about trash in  #waters of Mediterranean. http://t.co/RJY8AwfU	10:38:03	Jul 12	2012	4	0	2	0	0	0	0	0	1
+536	Worldwide #agriculture accounts for 70% of #water consumption #infographics http://t.co/LZq5seh6	10:11:30	Jul 12	2012	6	2	3	0	0	0	0	0	1
+537	#Water #footprint of twelve selected commodities - think before consuming http://t.co/fBtIPO4e	10:05:06	Jul 12	2012	1	0	2	0	0	0	0	0	1
+538	Only 2.5% of #water on Earth is fresh &amp; smaller amount is accessible for drinking.See great #infographics
+
+ http://t.co/Hc6JvNxF	09:35:57	Jul 12	2012	9	1	2	0	0	0	0	0	1
+539	RT @398blog 5 Fascinating Infographics About Water http://t.co/o6u5F81N	08:43:48	Jul 12	2012	2	0	0	0	1	0	1	0	1
+540	RT@IFPRI_Enviro How much #water do we really have? http://t.co/cXDOt8hh	08:08:43	Jul 12	2012	0	0	1	0	1	0	0	0	1
+541	@nordpil Sorry for that error, we have corrected it and now the link works.	07:34:30	Jul 12	2012	0	0	0	1	0	0	1	0	0
+542	We would like to introduce seasonal #water watch. Here you can view the official bathing site's ratings: http://t.co/KhflEzB1	14:19:52	Jul 11	2012	2	0	1	0	0	0	0	0	1
+543	RT @EUEnvironment: Philosophical question: If #air #pollution comes from natural sources - can we call it 'pollution' at all? New report ...	12:20:41	Jul 11	2012	4	0	2	0	1	0	1	0	0
+544	RT @ClimateSt: Revealing report on #Europe's urban adaptation to #climate change by the 
+@EUEnvironment http://t.co/WvxZ7Xzt	11:35:12	Jul 11	2012	3	0	2	0	1	0	1	0	1
+545	RT@EUEnvironment poor #airquality also caused by natural phenomena - dust storms, sea spray, volcano and fires. http://t.co/fc08GTDR	11:34:43	Jul 11	2012	0	0	1	0	1	0	0	0	1
+546	RT@ecogreen4us: how the adsorption Solar Air Conditioning works?# Green technology http://t.co/tkbJ4IMw	09:25:17	Jul 11	2012	1	0	0	0	1	0	0	0	1
+547	RT @thomaskolster: How is the air and water quality where you live? What about noise levels? @eyeonearth gives you the answers: http://t ...	13:57:08	Jul 10	2012	2	0	0	0	1	0	2	0	0
+548	RT @toddbaginski: A #sharepoint site we just built won an award! http://t.co/rSDmIGu4 Powered by #sharepoint, @esri, and @Canviz! http:/ ...	13:56:47	Jul 10	2012	2	0	2	0	1	0	3	0	1
+549	Have you tried twellow yet? The yellow pages for twitter? I just registered my profile: http://t.co/LYiAB8wq	13:24:04	Jul 10	2012	0	0	0	0	0	0	0	0	1
+550	RT @gisuser: Today's GISuser Today newsletter - Safe Software, Microsoft, Esri, SuperGeo, CARIS, Magellan  making news http://t.co/9q9bKFSS	13:18:15	Jul 10	2012	1	0	0	0	1	0	1	0	1
+551	RT @EUEnvironment: #Greentip: When storing #food, does your fridge temperature need to be so low? Think about resource efficiency! http: ...	13:01:26	Jul 10	2012	9	0	2	0	1	0	1	0	0
+552	RT @Earth911: Don't think you can #recycle? We've got 1.5 million ways to do just that - http://t.co/4lQgzGFK	12:06:39	Jul 10	2012	14	0	1	0	1	0	1	0	1
+553	One third of the food produced globally is lost or wasted. http://t.co/jPME7Kf6	11:58:25	Jul 10	2012	0	0	0	0	0	0	0	0	1
+554	A throw away culture - lets recycle : Register http://t.co/uyo7e6fz	11:37:45	Jul 10	2012	0	0	0	0	0	0	0	0	1
+555	The climate change debate http://t.co/kPioU4D0	11:09:58	Jul 10	2012	2	0	0	0	0	0	0	0	1
+556	Check out Eye on Earth in a nutshell http://t.co/PgMgENle http://t.co/llAqhgPF	10:11:48	Jul 10	2012	0	0	0	0	0	0	0	1	1
+557	See how many earthquakes happened since 1898 http://t.co/qaKWU7Ga	10:06:51	Jul 09	2012	1	0	0	0	0	0	0	0	1
+558	RT @EsriPetroleum: RT @liamca How to create your Eye on Earth web maps using #ArcGIS Online http://t.co/US886Y1j @Esri @EYEonEARTHorg #e ...	08:45:53	Jul 09	2012	3	0	2	0	1	0	4	0	1
+559	"When we care and help out, we make a difference – that’s you, us, and everyone else" http://t.co/h3pORo6x	11:21:40	Jul 06	2012	0	0	0	0	0	0	0	0	1
+560	Search with http://t.co/G62v6tEY and help the environment while you search http://t.co/pJJMohjg	09:38:25	Jul 06	2012	0	0	0	0	0	0	0	0	1
+561	This can help remembering what to do to save the Earth. http://t.co/GkMXiAvf	12:54:38	Jul 05	2012	1	0	0	0	0	0	0	0	1
+562	Getting wet in #Europe this summer? Check this #water quality viewer http://t.co/4MhZBQRA.  http://t.co/smZfJmRO	11:17:16	Jul 05	2012	0	0	2	0	0	0	0	0	1
+563	Water for agriculture — #eea http://t.co/IqcHKTu8	12:07:18	Jul 04	2012	2	0	1	0	0	0	0	0	1
+564	RT @unisdr: Reading @worldbank: Using Information and Communication Technology to Protect Citizens against Natural Disasters http://t.co ...	09:54:25	Jul 04	2012	10	0	0	0	1	0	2	0	0
+565	A week of extreme weather around the world - nice map: http://t.co/eBgIekX1 via @Greenpeace	09:15:22	Jul 04	2012	0	1	0	0	0	0	1	0	1
+566	RT @IUCN: Do you know any of the new Six natural wonders declared #WorldHeritage Sites? http://t.co/NOHvM6tO @UNESCO @UNESCOheritage	08:59:00	Jul 04	2012	22	0	1	0	1	0	3	0	1
+567	A beutiful reminder of how to be more green:http://t.co/jvOvHMt7	08:09:10	Jul 04	2012	2	1	0	0	0	0	0	0	1
+568	RT @ddimick: Story Map – Feeding the World: Can global crop production meet future demands?http://t.co/o2RCliqz (via @ESRI @coolfirecons ...	10:41:57	Jul 03	2012	3	0	0	0	1	0	3	0	1
+569	There’s Something about a Map… http://t.co/kZSLL4QI via @sharethis	10:19:37	Jul 03	2012	1	0	0	0	0	0	1	0	1
+570	What is GEO literacy? http://t.co/JgD4dkxy	10:10:01	Jul 03	2012	0	0	0	0	0	0	0	0	1
+571	RT @GIS_Day: GIS Day November 14, 2012 - Discovering the World Through GIS | http://t.co/g221DLjx	10:08:18	Jul 03	2012	0	0	0	0	1	0	1	0	1
+572	RT @IntelCities video about crowdsourced data and citzen mapping: http://t.co/fMmN0Rpg	09:11:30	Jul 03	2012	0	0	0	0	1	0	1	0	1
+573	RT @sustainableeu: Prof Jacqueline McGlade of @EUEnvironment (EEA) elaborates on EU progress in building a low-carbon economy. http://t. ...	08:46:43	Jul 03	2012	9	0	0	0	1	0	2	0	0
+574	Europe is “biking” green. How does the situation look for the US? cool infographics: http://t.co/CxKTw7dM	11:58:07	Jul 02	2012	6	0	0	0	0	0	0	0	1
+575	RT @EUEnvironment: Congratulations Copenhagen! 35% of people were #cycling to work in 2010. The council wants to achieve 50% by 2015 #bi ...	10:26:34	Jul 02	2012	17	0	2	0	1	0	1	0	0
+576	RT @EUEnvironment: Publication: NEC Directive status report 2011: Reporting by the Member States under Directive 2001/81/EC
+of the ... h ...	08:47:37	Jul 02	2012	5	0	0	0	1	0	1	0	0
+577	Nitrogen oxide emissions still a major problem in Europe - #EEA http://t.co/Pcaynybb	08:46:11	Jul 02	2012	0	0	1	0	0	0	0	0	1
+578	Importing Data from Excel Spreadsheets - great tutorial http://t.co/nFHUqurW	07:10:37	Jul 02	2012	0	0	0	0	0	0	0	0	1
+579	Water, water everywhere - as it heavily rains in Denmark, let's look at floods in the UK: http://t.co/eLYNP2Le via @sharethis	11:50:33	Jun 29	2012	1	0	0	0	0	0	1	0	1
+580	Amazing sky images from Australia-based photographer Lincoln Harrison:http://t.co/V3SPvt70	10:48:24	Jun 29	2012	0	0	0	0	0	0	0	0	1
+581	RT @brianfit: "The World will not be destroyed by those who do evil, but by those who watch them without doing anything." ~ Albert Einst ...	10:42:10	Jun 29	2012	411	0	0	0	1	0	1	0	0
+582	Microsoft Announces the 2012 Sustainability Partner of the Year:#Esri,#EyeonEarth 
+http://t.co/NCY7OQxL	08:28:24	Jun 29	2012	1	0	2	0	0	0	0	0	1
+583	@EUEnvironment read more about it on #eyeonearth blog:http://t.co/WerRLBia	14:03:15	Jun 28	2012	1	0	1	1	0	0	1	0	1
+584	African solutions feature in Sustainia100 | Green Africa Directory http://t.co/8bNpEXaK  via @greenafricadir	14:01:45	Jun 28	2012	2	1	0	0	0	0	1	0	1
+585	Read our thoughts on #Sustainia100 from the #eyeonearth blogspot: http://t.co/WerRLBia	14:00:22	Jun 28	2012	2	0	2	0	0	0	0	0	1
+586	‘Future we want’ is now an official multilateral agreement between 193 countries.See point 274 on #eyeonearthnetwork: http://t.co/icsbaJZb	13:27:35	Jun 27	2012	1	0	1	0	0	0	0	0	1
+587	Explore like an explorer, with the #eyeonearth.org: http://t.co/LimjwfHE	07:52:22	Jun 27	2012	2	0	1	0	0	0	0	0	1
+588	Contribute to data and knowledge building with Eye on Earth: http://t.co/3N92oihS	07:51:17	Jun 27	2012	2	0	0	0	0	0	0	0	1
+589	Become a creater of your own map and web application with Eye on Earth: http://t.co/JisBd3Lu	07:50:25	Jun 27	2012	1	0	0	0	0	0	0	0	1
+590	RT @EUEnvironment: #Didyouknow leaving appliances on standby can cost up to £86 a year? http://t.co/NgVVIHi1. Lots more #consumption #Gr ...	12:14:53	Jun 26	2012	4	0	3	0	1	0	1	0	1
+591	RT@Anne Glover real citizen science @EYEonEARTHorg from the #EEA.You input data via apps to create maps of noise pollution.	11:27:12	Jun 26	2012	0	0	1	0	1	0	1	0	0
+592	RT @Steven_Ramage: AGI response to open standards consultation http://t.co/Vs2SX8G9	09:21:36	Jun 26	2012	2	0	0	0	1	0	1	0	1
+593	How to Create your #eyeonearth web maps using ArcGIS Online: http://deveoe.eea.dmz1/en-us/Blog/Pages/BlogPost.aspx?pID=27	07:49:25	Jun 26	2012	1	1	1	0	0	0	0	0	0
+594	RT@KatleenJanssen #inspireistanbul Chris Steenmans:removing inconsistencies between data policies is one of the SEIS key action streams	07:09:58	Jun 26	2012	1	0	1	0	1	0	0	0	0
+595	Eye on Earth Network Blooms http://t.co/sRhghWlY via @sharethis	11:05:15	Jun 25	2012	1	0	0	0	0	0	1	0	1
+596	#Eyeonearth is at INSPIRE CONFERENCE 2012 this week: http://t.co/EtHtw91N	10:36:24	Jun 25	2012	1	0	1	0	0	0	0	0	1
+597	Eye on Earth was named to the Sustainia100, last night, at Rio+20, by Arnold Schwarzenegger: http://t.co/DAwSRU3g @sustainia	11:21:45	Jun 21	2012	2	0	0	0	0	0	1	0	1
+598	RT @geotellus: @EYEonEARTHorg love the new interface!
+http://t.co/5uZPHmkg	09:54:41	Jun 20	2012	1	0	0	0	1	0	2	0	1
+599	Exciting news from #RioPlus20. Draft agreement will be presented to heads of state today!	09:52:31	Jun 20	2012	1	0	1	0	0	0	0	0	0
+600	Is Everyone a Geographer? http://t.co/sUtE9vRJ via @sharethis	11:45:04	Jun 19	2012	5	0	0	0	0	0	1	0	1
+601	RT @EUEnvironment New feature-length #documentary 'Platen RE:think' is out now. Watch it here: http://t.co/fegjvOv8	09:55:12	Jun 19	2012	0	0	1	0	1	0	1	0	1
+602	Welcome to Eye on Earth blog http://t.co/W0BNw9nl via @pinterest	08:03:45	Jun 19	2012	0	0	0	0	0	0	1	0	1
+603	#EyeOnEarth is happy to introduce a complete makeover of website! Let us know what you think about it: http://t.co/Bd9vyRGh	07:52:08	Jun 19	2012	10	1	1	0	0	0	0	0	1
+604	RT @chrissto: Create an interactive map with a few clicks using @eyeonearthorg -&gt; http://t.co/p3rE9Cpa.	19:44:30	Jun 18	2012	3	0	0	0	1	0	2	0	1
+605	RT @JanezPotocnikEU: Meeting with NGOs at EU pavilion at #rioplus20 http://t.co/dHXlYS8J	20:12:33	Jun 17	2012	1	0	1	0	1	0	1	1	0
+606	RT @EyeOnEarth2014: “The technology is there (@ESRI) the focus is on connecting the gap between data producers and users.” via @LucioGra ...	17:58:23	Jun 17	2012	1	0	0	0	1	0	2	0	0
+607	so true! “@EyeOnEarth2014: "Sharing is everything" - David Stanners of @EUEnvironment #EyeOnGNON” #eyeonearth	17:48:14	Jun 17	2012	3	1	2	0	0	0	1	0	0
+608	RT @JanezPotocnikEU: In Rio we will choose the future we want http://t.co/PhuklFTh #rioplus20	16:33:57	Jun 17	2012	4	0	1	0	1	0	1	0	1
+609	RT @EyeOnEarth2014: #RioPlus20 attendees:  Start heading over to the @UNEP pavilion for the Eye on Global Network of Networks side event ...	13:35:44	Jun 17	2012	1	0	1	0	1	0	2	0	0
+610	RT @RomoloTassone: Not at #Rioplus20? You can watch the live webcast of #Riodialogues here http://t.co/DIJWtDtx. Passionate speeches by  ...	08:18:51	Jun 17	2012	21	0	2	0	1	0	1	0	1
+611	RT @UAE_RioPlus20: Make sure to visit our pavilion to experience UAE's sustainable development milestones achieved since its establishme ...	17:29:56	Jun 16	2012	3	0	0	0	1	0	1	0	0
+612	RT @unfoundation: Not in #Rio? Join @devex w/ @ASherinian tweeting live from #Rio+20 Monday Jun 18 12pm EST #RioPlusSolutions	17:29:31	Jun 16	2012	7	0	3	0	1	0	3	0	0
+613	RT @Microsoft_Green: Discover your environment with Eye on Earth #Rioplus20 http://t.co/n8YGms7D	13:22:08	Jun 14	2012	0	0	1	0	1	0	1	0	1
+614	RT @MasdarInst: RT @eyeonearth2014: Want to learn #EyeOnEarth’s Role in Sustainable Development and how it relates to #RioPlus20? See: h ...	13:18:48	Jun 14	2012	4	0	2	0	1	0	2	0	0
+615	#Miscrosoft is promoting #EoE in #RioPlus20: http://t.co/E5zVxpsJ	13:00:23	Jun 13	2012	0	0	3	0	0	0	0	0	1
+616	Place your vote for in Sustainable Development Dialogues for #RioPlus20. http://t.co/PXLkce2Q	07:29:11	Jun 13	2012	1	0	1	0	0	0	0	0	1
+617	@michael_d_gould absolutely! we are looking very much forward!	13:06:51	Jun 12	2012	0	0	0	1	0	0	1	0	0
+618	@michael_d_gould and available through #EyeOnEarth	12:48:00	Jun 12	2012	0	0	1	1	0	0	1	0	0
+619	Interested in #fishery? Here is a great #map available via#EoE of the European marine fish capture production: http://t.co/aN6hUdql	12:23:05	Jun 12	2012	1	1	2	0	0	0	0	0	1
+620	#sustainability in context of #RioPlus20. Here is an opinion of the Dutch MEP: http://t.co/vxwCi6nI	07:41:18	Jun 12	2012	0	0	2	0	0	0	0	0	1
+621	RT @MusicForRelief: Join the #RioPlusSocial twitter chat tomorrow, Tues June 12, 9-12 EST w/ @unfoundation @musicforrelief to talk about ...	07:32:13	Jun 12	2012	8	0	1	0	1	0	3	0	0
+622	The Last Fishermen - support sustainable fishery: http://t.co/RaE3FaN9 via @youtube	13:46:28	Jun 11	2012	0	0	0	0	0	0	1	0	1
+623	Rhythms Del Mundo has released #Rio+20 Album featuring Bob Dylan, U2, Sting and many others http://t.co/7v7pvPi6	07:22:40	Jun 11	2012	0	0	1	0	0	0	0	0	1
+624	RT @planet_earth_ch: Eye on Earth: #WorldwatchInstitute Research &amp; outreach that inspire action for the transition to a #sustainable ...	12:53:13	Jun 10	2012	3	0	2	0	1	0	1	0	0
+625	RT @EyeOnEarth2014: #EyeOnEarth to host 10 unofficial side-events at #RioPlus20 in partnership w/ @UNEP #EAD, #AGEDI  http://t.co/1B6aniLS	12:52:40	Jun 10	2012	111	0	4	0	1	0	2	0	1
+626	RT @EyeOnEarth2014: Be sure to sign up for the #EyeOnEarth newsletter http://t.co/eSMk8Ez6 #RioPlus20 #TheFutureWeWant	12:52:27	Jun 10	2012	141	0	3	0	1	0	1	0	1
+627	RT @gisuser: RT @josephkerski: What's new in ArcGIS 10.1:  http://t.co/zUnINFGm.  #esri #gis	17:14:38	Jun 08	2012	2	0	2	0	1	0	2	0	1
+628	RT @EUEnvironment: #Didyouknow only 10% of marine habitats &amp; 2% of #marine species are in good condition? http://t.co/3HvilEX2 #Worl ...	12:05:25	Jun 08	2012	15	0	3	0	1	0	1	0	1
+629	Twitter Map for Silverlight - also in #eoe http://t.co/WXQYPSD6 via @sharethis	07:01:54	Jun 08	2012	1	0	1	0	0	0	1	0	1
+630	RT @discomap: We are upgrading our domain controler at 10 am (copenhague time). Our services may encounter some hichups #discomap #GIS # ...	06:57:22	May 29	2012	3	0	2	0	1	0	1	0	0
+631	RT @Esri: Did you know #ArcGIS Online has tools to analyze elevation profiles from #GPS data? http://t.co/JY2WpWDY #Esri	19:01:41	May 28	2012	12	0	3	0	1	0	1	0	1
+632	RT @EyeOnEarth2011: #EyeOnEarth Summit Speakers now on Pinterest! http://t.co/RoXJKOj2 #CheckItOut	19:00:58	May 28	2012	1	0	2	0	1	0	1	0	1
+633	Sharing is Everything #eyeonearth #eoe	12:17:25	May 25	2012	0	0	2	0	0	0	0	0	0
+634	RT @EUEnvironment: #GreenWeek "without water there is no environment, no economy, no life". Janez Potocnik, Eu Commissioner for the Envi ...	11:07:56	May 25	2012	30	0	1	0	1	0	1	0	0
+635	RT @EUEnvironment: Data: Bathing Water Directive - Status of bathing water: The EU Bathing Waters Directive requires Member States ... h ...	09:26:58	May 24	2012	6	0	0	0	1	0	1	0	0
+636	RT @EUEnvironment: How clean was the water at your favourite beach last year? http://t.co/8l8yTRTr Great resource for planning #holidays ...	12:07:38	May 23	2012	9	0	1	0	1	0	1	0	1
+637	RT @EUEnvironment: Watch live #EEA’s director speaking  at #GreenWeek. Water management and Green Economy are in the spotlight. from 14. ...	12:07:29	May 23	2012	2	0	2	0	1	0	1	0	0
+638	RT @EUEnvironment: How clean are the Eu bathing waters?latest #EEA report to be published today at 12.00 http://t.co/jR90YcOJ	07:44:38	May 23	2012	6	0	1	0	1	0	1	0	1
+639	RT @EUEnvironment: Interactive map: Agricultural Areas in Europe: Agricultural Areas http://t.co/LwYYF9Y6	14:02:32	May 22	2012	9	0	0	0	1	0	1	0	1
+640	RT @EUEnvironment: Find out which areas are protected in your region of Europe with this interactive map: http://t.co/U3YUiu0J. #Biodive ...	14:02:14	May 22	2012	10	0	1	0	1	0	1	0	1
+641	RT @EUEnvironment: As announced at #GreenWeek's opening remarks, we will publish the annual Bathing Water Quality report tomorrow. http: ...	14:01:45	May 22	2012	7	0	1	0	1	0	1	0	0
+642	@EUEnvironment Check this "interactive map" of Forests http://t.co/Nre4OEJB #eyeonearth	13:19:46	May 15	2012	6	0	1	1	0	0	1	0	1
+643	RT @Esri: New Flood Planning Map helps river communities prepare for seasonal flooding http://t.co/NhFUeCft http://t.co/bpjwwVul #Esri	17:46:18	May 02	2012	8	0	1	0	1	0	1	0	1
+644	RT @EUEnvironment: More than 500 million people live in the #EU. Here is a map showing where they are located. #population http://t.co/B ...	16:13:32	May 02	2012	16	0	2	0	1	0	1	0	1
+645	RT @Esri_France: La carte ArcGIS Online de la semaine, le Titanic http://t.co/GJ18a0tf	06:05:39	Apr 30	2012	1	0	0	0	1	0	1	0	1
+646	RT @sonitussystems: Sonitus Systems #noise monitoring data from #Dublin to feature in @EYEonEARTHorg NoiseWatch system. We have a networ ...	09:20:38	Apr 27	2012	1	0	2	0	1	0	2	0	0
+647	RT @MylesSutherland: If you missed #Esri Developer Summit...check out Building Applications Using ArcGIS Online  - http://t.co/vFVjKTRs  ...	07:10:55	Apr 26	2012	5	0	1	0	1	0	1	0	1
+648	RT @EUEnvironment: How does the #noise in your area compare with others? Find out on the @EYEonEARTHorg NoiseWatch map http://t.co/Guwdi61W	12:23:57	Apr 25	2012	10	0	1	0	1	0	2	0	1
+649	RT @EUEnvironment: It's International Noise Awareness Day! Have a #noise reducing idea? Apply for the European Soundscape Award http://t ...	11:44:03	Apr 25	2012	13	0	1	0	1	0	1	0	0
+650	RT @EUEnvironment: Here are the EEA video competition finalists http://t.co/MpTTfGtz. Vote for your favourite before 7 May! #Rioplus20 h ...	11:12:42	Apr 23	2012	8	0	1	0	1	0	1	0	1
+651	How would you allocate $100 among 7 enviro issues? #Esri #EarthDay #PollMap http://t.co/ru7qr1fL via @mappingcenter #Eyeonearth	07:50:34	Apr 23	2012	3	0	4	0	0	0	1	0	1
+652	RT @EUEnvironment: Interactive map: Annual precipitation change 2021-2050: Projected changes in annual precipitation in percentages... h ...	17:52:36	Apr 16	2012	9	0	0	0	1	0	1	0	0
+653	RT @EUEnvironment: This map shows which regions are the most #water stressed. How does your region compare with the rest of Europe? http ...	14:27:28	Apr 12	2012	16	0	1	0	1	0	1	0	0
+654	RT @EU_Commission: #SPEECH Cssr #Poto?nik: #Rioplus20 – Building on the pillars of life, development and poverty eradication #EU http:// ...	11:39:31	Apr 12	2012	5	0	4	0	1	0	1	0	0
+655	RT @MGCY_UNCSD: Young people represent over 3 billion voices. They need to be heard at #Rioplus20 if the summit is to be success! @MGCY_ ...	16:03:13	Apr 04	2012	27	0	1	0	1	0	2	0	0
+656	Sharing is everything! #EyeOnEarth at #DevSummit	06:51:59	Mar 28	2012	5	0	2	0	0	0	0	0	0
+657	Our facebook page is updated to timeline. Your feedback is welcolme. Like us here http://t.co/lGF2cJaF #eyeonearth	23:06:58	Mar 27	2012	0	0	1	0	0	0	0	0	1
+658	We are at #Devsummit - Hope to meet some of you there!	15:20:30	Mar 27	2012	0	0	1	0	0	0	0	0	0
+659	RT @SiAction: Have U checked out #EyeonEarth? It's an amazing implementation of #arcgisonline Featured in Euro Marketing update #epcps # ...	11:32:24	Mar 26	2012	4	0	3	0	1	0	1	0	0
+660	Map: Annual Precipiation change projection for 2021-2050 via #eyeonearth  http://t.co/L4nxXkIe           #climateadapt	13:05:02	Mar 23	2012	3	0	2	0	0	0	0	0	1
+661	RT @EUEnvironment: New website to assist with #climate change adaptation in Europe was launched today! Have a look here http://t.co/EYY4 ...	12:36:22	Mar 23	2012	7	0	1	0	1	0	1	0	0
+662	RT @EUEnvironment: It's #WorldWaterDay! To celebrate join EEA's facebook chat in 45 mins with its #water expert Beate Werner @ http://t. ...	09:45:37	Mar 22	2012	9	0	2	0	1	0	2	0	0
+663	How to ZOOM in #eyeonearth - Check our tooltip http://t.co/UJK9lKS2 and http://t.co/lGF2cJaF	09:35:34	Mar 22	2012	3	0	1	0	0	0	0	0	1
+664	Today is #WorldWaterDay ! When you will use water, think that many dont have that chance...	07:24:12	Mar 22	2012	2	0	1	0	0	0	0	0	0
+665	RT @UNICEF: Why is #water important to you? Check out this album of women's voices on water: http://t.co/ERstvee2 #waterday	16:18:54	Mar 21	2012	94	0	2	0	1	0	1	0	1
+666	Check #TEEB (The Economics of Ecosystems and Biodiversity) cases interactive map in #EyeOnEarth http://t.co/0Rg24F8w	08:16:02	Mar 21	2012	4	0	2	0	0	0	0	0	1
+667	RT @discomap: We just published 12 new map services on climate. Enjoy them here http://t.co/YDbRaJoe #eyeonearth #EEA #discomap	11:19:10	Mar 16	2012	12	0	3	0	1	0	1	0	1
+668	RT @MyCOE_AAG: @EYEonEARTHorg Youth-lead, sustainable development projects due by June 1, 2012 for prizes and recognition at Rio+20. htt ...	14:08:51	Mar 13	2012	1	0	0	0	1	0	2	0	0
+669	3-15 March, find us at Oceanology International 2012 in London's http://t.co/g4gYC58v ! We look forward to meeting some of you there	10:01:00	Mar 13	2012	0	0	0	0	0	0	0	0	1
+670	1 year since #Fukushima disaster. See #EyeonEarth global distribution of nuclear powers stations with pop. density. http://t.co/ivBJQejz	13:53:08	Mar 09	2012	4	0	2	0	0	0	0	0	1
+671	RT @WorldBank: Looking for specific World Bank financial data? Suggest a dataset: http://t.co/aXB7m5eQ   #WBFinances #opendata	07:17:03	Mar 09	2012	20	0	2	0	1	0	1	0	1
+672	RT @MarinReturns: #EyeOnEarth watching the earth http://t.co/x40tZDh0	15:09:51	Mar 08	2012	1	0	1	0	1	0	1	0	1
+673	RT @Esri_France: Esri collabore au Eye on Earth Network http://t.co/HqgW06lF	12:33:38	Mar 07	2012	3	0	0	0	1	0	1	0	1
+674	@EDENextDMT we will check that! Thank you	06:58:06	Mar 02	2012	0	0	0	1	0	0	1	0	0
+675	@gisdatamonkey can we integrate them in #EyeOnEarth ?	15:20:58	Mar 01	2012	0	0	1	1	0	0	1	0	0
+676	#Noise app for mobile. Get it for free here : http://t.co/1sWckNf4 See data reported on #eyeonearth http://t.co/gJPEEwY4	07:43:02	Mar 01	2012	4	0	2	0	0	0	0	0	1
+677	How can we keep an #EyeOnEarth ?	18:19:38	Feb 26	2012	1	0	1	0	0	0	0	0	0
+678	Listen to online broadcast about Eye On Earth http://t.co/UJc6LL9d #EyeonEarth #EEA PRI	14:12:47	Feb 22	2012	2	0	2	0	0	0	0	0	1
+679	RT @MarinReturns: #EyeOnEarth watching the earth http://t.co/x40tZDh0	06:36:34	Feb 18	2012	1	0	1	0	1	0	1	0	1
+680	RT @JanezPotocnikEU: Were you born around last Rio Earth Summit?@euenvironment video competition wants your visions of sustainable futur ...	13:26:54	Feb 13	2012	15	0	0	0	1	0	1	0	0
+681	#EyeonEarth shows the fuel spill hazard to important wildlife marine sanctuary http://t.co/b96MSeuC #costaconcordia	14:49:44	Jan 27	2012	5	0	2	0	0	0	0	0	1
+682	RT @ogc_steven: Rio+20 : Here is the final Eye on Earth Summit Declaration to be submitted to Rio+20 http://t.co/aUewkZKa #EyeOnEarth	15:02:13	Jan 17	2012	2	0	1	0	1	0	1	0	1
+683	Easy example, check the distribution of forest jn Europe http://t.co/ZWqcEVlr Is it close from where you live?	13:30:50	Jan 13	2012	0	0	0	0	0	0	0	0	1
+684	@Ecourbano_es Thank you!	17:18:05	Dec 22	2011	0	0	0	1	0	0	1	0	0
+685	RT @pdjmoo: New Eye on Earth global mapping and information service now live @euenvironment http://t.co/YrCxnQE7 @EYEonEARTHorg	17:17:47	Dec 22	2011	1	0	0	0	1	0	3	0	1
+686	RT @shoshe: Prof. Jacqueline McGlade shares thoughts on Making Environmental Data Easier to Collect and Use:http://t.co/4lILxgG9 #EyeOnEarth	18:07:05	Dec 13	2011	1	0	1	0	1	0	1	0	1
+687	RT @BioDataCentre: New Eye on Earth global mapping and information service now live http://t.co/yBDRGmAZ	13:52:17	Dec 13	2011	3	0	0	0	1	0	1	0	1
+688	New Eye on Earth global mapping and information service now live — EEA http://t.co/HgFW0nDn  #eyeonearth	11:11:07	Dec 13	2011	20	0	1	0	0	0	0	0	1
+689	RT @eyeonearth2011: Welcome all to #EyeOnEarth - Convene, Converge, and Collaborate with us here in Abu Dhabi and online... http://t.co/ ...	07:45:45	Dec 12	2011	1	0	1	0	1	0	1	0	0
+690	RT @eyeonearth2011: Open Sessions now underway - follow @michael_d_gould @craigmills @ogc_steven @unepgrid for updates #EyeOnEarth... ht ...	07:43:36	Dec 12	2011	1	0	1	0	1	0	5	0	0
+691	RT @michael_d_gould: Previewing great demos in the Eye on Earth network booth. Great team assembled.	14:49:44	Dec 11	2011	2	0	0	0	1	0	1	0	0
+692	RT @michael_d_gould: Check out the "Noise meter EoE" app for iOS. 1 of the cool apps coming out of the EoE network thanks to EEA	14:49:31	Dec 11	2011	3	0	0	0	1	0	1	0	0
+693	RT @michael_d_gould: Hasn't even started and already #eyeonearth has been a non-stop meeting of the minds from around the world.	12:27:05	Dec 11	2011	3	0	1	0	1	0	1	0	0
+694	RT @Bert_Jansen_59: Less than 48 hours before the #eyeonearth summit opens its doors. Rumour has it there are around 1000 participants.	17:00:44	Dec 10	2011	1	0	1	0	1	0	1	0	0
+695	RT @ogc_steven: Next week a number of us will be in Abu Dhabi, here's why: http://t.co/O1fLPWNH  #eyeonearth #Rioplus20	19:56:21	Dec 08	2011	0	0	2	0	1	0	1	0	1
+696	We are getting ready for the  #EyeOnEarth summit!	19:50:22	Dec 08	2011	0	0	1	0	0	0	0	0	0
+697	RT @atelletxea: EEA @euenvironment with Bilbomatica launches a mobile application #naturewatch inside #eyeonearth initiative http://t.co ...	10:11:11	Dec 02	2011	3	0	2	0	1	0	2	0	0
+698	RT @Connect4Climate: Jacqueline McGlade of European Env't Agency talking about data and knowledge sharing on eyeonearth.eu
+#ccommsday #c ...	15:01:46	Dec 01	2011	2	0	2	0	1	0	1	0	0
+699	#EyeonEarth Enables Cloud-Based Environmental Data Sharing http://t.co/HBzwgGPQ	11:29:15	Dec 01	2011	1	0	1	0	0	0	0	0	1
+700	Soon we will have an #EYEonEarth	10:32:43	Nov 24	2011	1	1	1	0	0	0	0	0	0
